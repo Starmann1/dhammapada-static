@@ -1,10 +1,4 @@
-# Dhammapada Static Website - Project Notes
-
-## 📍 Project Overview
-
-A simple static website for reading The Dhammapada.
-
-**Location**: `C:\Users\garul\OneDrive\Desktop\dhammapada-static`
+# Dhammapada Static Website 
 
 ## 🎯 Current Status
 
@@ -26,6 +20,7 @@ This is an early-stage side project with basic functionality:
 - 🔲 Complete verse collection
 - 🔲 Advanced search
 - 🔲 Additional features (TBD)
+
 
 ## 📁 Simple Structure
 
@@ -49,6 +44,6 @@ This project will evolve over time with additional features and complete content
 
 ---
 
-**Created**: December 2025  
+**Started**: December 2025  
 **Status**: 🚧 In Development  
 **Purpose**: Personal learning project & sharing Buddhist teachings
