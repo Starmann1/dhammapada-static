@@ -4,20 +4,6 @@ A static website for reading The Dhammapada, a collection of sayings of the Budd
 
 > **Note**: This is an early-stage side project. More features and content will be added in the future.
 
-## 🚀 Quick Start
-
-Open `index.html` in your browser, or use a local server:
-
-```bash
-# Python
-python -m http.server 8000
-
-# Node.js
-npx http-server
-
-# VS Code
-# Right-click index.html → "Open with Live Server"
-```
 
 ## ✨ Current Features
 
