@@ -23,14 +23,6 @@ dhammapada-static/
 ├── data/                  # Data files
 │   └── dhammapada.json    # Complete Dhammapada data (26 chapters, 423 verses)
 │
-├── scripts/               # Python utility scripts
-│   ├── expand_dhammapada.py
-│   └── generate_dhammapada.py
-│
-├── backup/                # Backup files
-│   ├── dhammapada.json.backup
-│   └── dhammapada_expanded.json
-│
 └── docs/                  # Documentation
     ├── README.md          # Original project documentation
     └── FINAL_SUMMARY.md   # Project summary
@@ -89,9 +81,7 @@ The `data/dhammapada.json` file contains:
 - **HTML Files**: Entry point (`index.html`) in root, other pages in `pages/`
 - **Assets**: All CSS, JS, and images organized in `assets/` subdirectories
 - **Data**: JSON data files in `data/`
-- **Scripts**: Python utilities in `scripts/`
 - **Documentation**: All docs in `docs/`
-- **Backups**: Previous versions in `backup/`
 
 ### Path References
 
