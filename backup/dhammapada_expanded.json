@@ -1,0 +1,240 @@
+{
+    "chapters": [
+        {
+            "id": 1,
+            "name_pali": "Yamaka Vagga",
+            "name_en": "The Pairs",
+            "summary": "This chapter explores the fundamental duality of mental states and their consequences. It emphasizes how our thoughts shape our reality and determine our happiness or suffering.",
+            "verses": [
+                {
+                    "id": 1,
+                    "verse_number": 1,
+                    "pali": "Manopubbaṅgamā dhammā, manoseṭṭhā manomayā; Manasā ce paduṭṭhena, bhāsati vā karoti vā; Tato naṃ dukkhamanveti, cakkaṃva vahato padaṃ.",
+                    "translation": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with an impure mind a person speaks or acts, suffering follows him like the wheel that follows the foot of the ox.",
+                    "commentary": "This verse teaches that all our experiences originate from the mind. When we act or speak with a corrupted mind filled with greed, hatred, or delusion, suffering inevitably follows us. Just as a wheel follows the ox that pulls the cart, our suffering is inseparable from our unwholesome mental states.",
+                    "story": {
+                        "title": "The Story of Cakkhupala Thera",
+                        "content": "Cakkhupala was a monk who became blind while meditating. In a past life, he had been a physician who deliberately blinded a woman to keep her dependent on him. The Buddha explained that his blindness was the result of that past evil deed. Despite his blindness, Cakkhupala attained Arahantship through diligent practice. One night, while walking in meditation, he accidentally stepped on some insects. Other monks accused him of killing intentionally, but the Buddha declared him innocent, explaining that an Arahant cannot intentionally kill, as his mind is pure. This story illustrates how past unwholesome actions (done with an impure mind) bring suffering, while present pure actions lead to liberation."
+                    }
+                },
+                {
+                    "id": 2,
+                    "verse_number": 2,
+                    "pali": "Manopubbaṅgamā dhammā, manoseṭṭhā manomayā; Manasā ce pasannena, bhāsati vā karoti vā; Tato naṃ sukhamanveti, chāyāva anapāyinī.",
+                    "translation": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with a pure mind a person speaks or acts, happiness follows him like his never-departing shadow.",
+                    "commentary": "This is the positive counterpart to the first verse. When our mind is pure, filled with loving-kindness, compassion, and wisdom, happiness naturally follows all our actions. Like a shadow that never leaves us, this happiness is inseparable from wholesome mental states.",
+                    "story": {
+                        "title": "The Story of Matthakundali",
+                        "content": "Matthakundali was a young boy from a wealthy family whose miserly father never gave him proper food or clothing. When the boy fell ill and was dying, his father finally called a physician, but it was too late. The Buddha visited the dying boy and helped him develop a pure, serene mind by guiding him to offer a simple mental gift. With this pure intention, the boy died peacefully and was reborn in a heavenly realm. The Buddha then revealed that in a past life, Matthakundali had been a generous person, and this past wholesome karma, combined with his final pure thought, brought him happiness. This demonstrates how a pure mind, even in the last moments, can lead to a fortunate rebirth."
+                    }
+                },
+                {
+                    "id": 3,
+                    "verse_number": 3,
+                    "pali": "Akkocchi maṃ avadhi maṃ, ajini maṃ ahāsi me; Ye ca taṃ upanayhanti, veraṃ tesaṃ na sammati.",
+                    "translation": "He abused me, he struck me, he overpowered me, he robbed me. Those who harbor such thoughts do not still their hatred.",
+                    "commentary": "This verse addresses the destructive nature of holding grudges. When we constantly replay past wrongs in our minds and nurse our grievances, we keep our hatred alive. The mind that clings to resentment cannot find peace. The verse teaches that it is not the original wrong that perpetuates our suffering, but our own mental habit of dwelling on it.",
+                    "story": {
+                        "title": "The Story of Thera Tissa",
+                        "content": "Two monks, both named Tissa, lived in Savatthi. One day, the junior Tissa accidentally stepped on the senior Tissa's robe, tearing it. The senior monk became furious and held a grudge, constantly thinking 'He tore my robe, he disrespected me.' His mind became so consumed with anger that he couldn't meditate or find peace. When the Buddha learned of this, he spoke this verse, explaining that the junior monk's action was accidental and minor, but the senior monk's continuous dwelling on it was causing his own suffering. The Buddha taught that by letting go of the grudge, the senior monk could immediately find peace. Upon hearing this teaching, the senior Tissa released his resentment and soon attained Arahantship."
+                    }
+                },
+                {
+                    "id": 4,
+                    "verse_number": 4,
+                    "pali": "Akkocchi maṃ avadhi maṃ, ajini maṃ ahāsi me; Ye ca taṃ nupanayhanti, veraṃ tesūpasammati.",
+                    "translation": "He abused me, he struck me, he overpowered me, he robbed me. Those who do not harbor such thoughts still their hatred.",
+                    "commentary": "This verse presents the solution to the problem described in verse 3. By choosing not to dwell on past wrongs, by not rehearsing our grievances, we allow our hatred to naturally subside. Peace comes not from getting revenge or receiving apologies, but from our own decision to release resentment from our minds.",
+                    "story": {
+                        "title": "The Story of the Quarreling Monks",
+                        "content": "In the city of Kosambi, monks became divided into two factions over a minor disciplinary matter. Each group believed they were right and held grudges against the other. The dispute escalated until the monastery became unbearable. The Buddha tried to reconcile them, but they were too attached to their positions. Eventually, the Buddha left them and spent the rainy season alone in the forest with an elephant. The lay supporters, disappointed by the monks' behavior, stopped offering them alms. Facing hunger and shame, the monks finally realized their foolishness. They came to the Buddha, confessed their fault, and genuinely let go of their grudges. The Buddha then taught them this verse, explaining that their suffering came not from the original disagreement, but from their refusal to let it go. Once they truly abandoned their resentment, harmony was immediately restored."
+                    }
+                },
+                {
+                    "id": 5,
+                    "verse_number": 5,
+                    "pali": "Na hi verena verāni, sammantīdha kudācanaṃ; Averena ca sammanti, esa dhammo sanantano.",
+                    "translation": "Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is an eternal law.",
+                    "commentary": "This verse expresses one of the Buddha's most profound teachings on conflict resolution. Responding to hatred with more hatred only perpetuates the cycle of suffering. Only by meeting hatred with loving-kindness, understanding, and forgiveness can we truly end conflict. This is described as an eternal law (sanantano dhammo) because it is a universal truth that transcends time and culture.",
+                    "story": {
+                        "title": "The Story of Prince Dighavu",
+                        "content": "Long ago, King Brahmadatta of Kasi conquered the kingdom of Kosala and killed King Dighiti. Before his death, King Dighiti whispered to his son, Prince Dighavu, 'Do not look long, do not look short' - meaning 'Do not perpetuate hatred, but also do not forget the Dhamma.' Prince Dighavu escaped and later became a servant in King Brahmadatta's palace, eventually becoming the king's favorite attendant. One day, while alone with the king in the forest, Dighavu had the perfect opportunity for revenge. He drew his sword, but remembered his father's words. Instead of killing the king, he revealed his identity and explained the teaching of non-hatred. King Brahmadatta was so moved by this act of mercy and wisdom that he returned the kingdom to Dighavu and the two kingdoms lived in peace. The Buddha used this story to illustrate that only non-hatred can truly end hatred."
+                    }
+                },
+                {
+                    "id": 6,
+                    "verse_number": 6,
+                    "pali": "Pare ca na vijānanti, mayamettha yamāmase; Ye ca tattha vijānanti, tato sammanti medhagā.",
+                    "translation": "The others do not know that in this quarrel we perish; those who realize it, their quarrels are calmed.",
+                    "commentary": "Most people engaged in conflict do not realize that their quarreling is destroying them. They are so caught up in being right and defeating their opponent that they cannot see the harm they are doing to themselves. But those who have the wisdom to see this truth immediately cease their quarreling, as they understand that victory in argument is not worth the cost to their peace and wellbeing.",
+                    "story": {
+                        "title": "The Story of Two Arguing Merchants",
+                        "content": "Two merchants who had been friends for years fell into a dispute over a business matter. Each believed the other had cheated him, and they began a bitter feud that consumed their lives. They spent their wealth on lawyers, their time on plotting revenge, and their energy on spreading rumors about each other. Meanwhile, their businesses suffered, their families were distressed, and their health declined. One day, both happened to visit the Buddha separately. To each, the Buddha taught this verse. Both merchants suddenly realized that their quarrel was destroying them far more than the original dispute ever could have. They understood that they were perishing in their conflict. When they met again, they immediately reconciled, understanding that peace was more valuable than being proven right."
+                    }
+                },
+                {
+                    "id": 7,
+                    "verse_number": 7,
+                    "pali": "Subhānupassiṃ viharantaṃ, indriyesu asaṃvutaṃ; Bhojanamhi cāmattaññuṃ, kusītaṃ hīnavīriyaṃ; Taṃ ve pasahati Māro, vāto rukkhaṃva dubbalaṃ.",
+                    "translation": "Whoever lives contemplating pleasant things, with senses unrestrained, immoderate in eating, indolent, and lazy—Mara overthrows such a one as the wind overthrows a weak tree.",
+                    "commentary": "This verse warns against the dangers of heedlessness and self-indulgence. Those who constantly seek pleasant experiences, fail to guard their senses, overeat, and lack energy in practice are easily overcome by Mara (representing temptation and delusion). Like a weak tree that cannot withstand the wind, such people have no strength to resist unwholesome influences.",
+                    "story": {
+                        "title": "The Story of Mahakala the Lazy Monk",
+                        "content": "Mahakala was a monk who ordained with good intentions but quickly became lazy. He would sleep late, eat excessively, and spend his time daydreaming about pleasant experiences. He made no effort in meditation and did not guard his senses. Other monks tried to encourage him, but he always had excuses. One day, he became seriously ill. As he lay dying, his mind was filled with unwholesome thoughts because he had never trained it. He was terrified and filled with regret. The Buddha visited him and taught this verse, explaining that Mahakala had been like a weak tree, easily blown over by the winds of temptation. Though it was late, the Buddha's teaching helped Mahakala make a final effort to purify his mind. This story serves as a warning to practice diligently while we have the opportunity."
+                    }
+                },
+                {
+                    "id": 8,
+                    "verse_number": 8,
+                    "pali": "Asubhānupassiṃ viharantaṃ, indriyesu susaṃvutaṃ; Bhojanamhi ca mattaññuṃ, saddhaṃ āraddhavīriyaṃ; Taṃ ve nappasahati Māro, vāto selaṃva pabbataṃ.",
+                    "translation": "Whoever lives contemplating the impurities, with senses well-restrained, moderate in eating, full of faith and energy—Mara cannot overthrow such a one, any more than the wind can overthrow a rocky mountain.",
+                    "commentary": "This verse presents the opposite of verse 7. Those who practice mindfulness of the body's impurities (to counter attachment), guard their senses carefully, eat moderately, and maintain strong faith and energy are like a mountain that cannot be moved by the wind. Such practitioners have developed the strength to resist all temptations and delusions.",
+                    "story": {
+                        "title": "The Story of Venerable Mahakassapa",
+                        "content": "Venerable Mahakassapa was renowned for his strict ascetic practices and unwavering diligence. He would contemplate the impermanent and unattractive nature of the body, carefully guard his senses from unwholesome objects, eat only what was necessary for sustaining life, and practice with tremendous energy. Even in his old age, he never relaxed his practice. Mara tried many times to tempt him or discourage him, but Mahakassapa remained unmoved, like a mountain in a storm. The Buddha often praised him as an example of a practitioner who had developed unshakeable strength through proper practice. His life demonstrated that those who follow the path with discipline and energy become invincible to the forces of delusion."
+                    }
+                },
+                {
+                    "id": 9,
+                    "verse_number": 9,
+                    "pali": "Anikkasāvo kāsāvaṃ, yo vatthaṃ paridahissati; Apeto damasaccena, na so kāsāvamarahati.",
+                    "translation": "Whoever, being impure and without self-control and truthfulness, should don the yellow robe, is not worthy of the yellow robe.",
+                    "commentary": "The yellow robe is the symbol of a Buddhist monk or nun, representing renunciation and purity. This verse teaches that merely wearing the robe does not make one a true renunciant. If a person lacks inner purity, self-control, and truthfulness, they are not worthy of the robe, regardless of their outward appearance. True monasticism is about inner transformation, not external symbols.",
+                    "story": {
+                        "title": "The Story of Hatthaka",
+                        "content": "Hatthaka was a man who ordained as a monk but did not change his ways. He continued to be greedy, dishonest, and lacking in self-control. He would accept offerings meant for virtuous monks and use them for his own comfort. He wore the yellow robe proudly but had no intention of practicing the Dhamma. Other monks complained to the Buddha about Hatthaka's behavior. The Buddha taught this verse, explaining that Hatthaka was not worthy of the robe he wore. The Buddha said that the robe should be worn only by those who have purified themselves of defilements and developed self-control and truthfulness. Eventually, Hatthaka was expelled from the Sangha for his unwillingness to reform."
+                    }
+                },
+                {
+                    "id": 10,
+                    "verse_number": 10,
+                    "pali": "Yo ca vantakasāvassa, sīlesu susamāhito; Upeto damasaccena, sa ve kāsāvamarahati.",
+                    "translation": "But whoever is purged of impurity, well-established in moral precepts, possessed of self-control and truthfulness, is indeed worthy of the yellow robe.",
+                    "commentary": "This verse completes the teaching of verse 9. Those who have genuinely purified their minds, established themselves firmly in moral conduct, and developed self-control and truthfulness are truly worthy of wearing the yellow robe. The external symbol matches their internal reality. Such individuals bring honor to the robe and to the Buddhist tradition.",
+                    "story": {
+                        "title": "The Story of Venerable Sariputta",
+                        "content": "Venerable Sariputta was the Buddha's chief disciple, renowned for his wisdom and impeccable conduct. Before he wore the yellow robe, he had already begun purifying his mind and developing virtue. After ordination, he practiced with such dedication that he quickly attained Arahantship. His moral conduct was flawless, his self-control perfect, and his truthfulness unwavering. The Buddha often pointed to Sariputta as an example of one who was truly worthy of the yellow robe. People would see Sariputta and immediately feel faith in the Buddhist path, because his external appearance as a monk perfectly reflected his internal purity. His life demonstrated that the robe should be worn by those who have genuinely transformed themselves."
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name_pali": "Appamāda Vagga",
+            "name_en": "Heedfulness",
+            "summary": "This chapter emphasizes the importance of mindfulness and diligence in spiritual practice. Heedfulness is presented as the path to the deathless, while heedlessness leads to death.",
+            "verses": [
+                {
+                    "id": 11,
+                    "verse_number": 21,
+                    "pali": "Appamādo amatapadaṃ, pamādo maccuno padaṃ; Appamattā na mīyanti, ye pamattā yathā matā.",
+                    "translation": "Heedfulness is the path to the Deathless. Heedlessness is the path to death. The heedful die not. The heedless are as if dead already.",
+                    "commentary": "This verse establishes the fundamental importance of mindfulness (appamāda) in Buddhist practice. The 'Deathless' refers to Nibbana, the unconditioned state beyond birth and death. Those who are heedful, constantly aware and mindful, progress toward liberation. Those who are heedless, living in distraction and delusion, are spiritually dead even while physically alive.",
+                    "story": {
+                        "title": "The Story of Samavati",
+                        "content": "Queen Samavati was known for her exceptional mindfulness and loving-kindness. Despite being the target of a jealous co-wife's plots, she maintained constant awareness and never responded with anger. When her rival set fire to her quarters, Samavati and her attendants died while meditating on loving-kindness. The Buddha explained that because of their heedfulness and pure minds at the moment of death, they were all reborn in heavenly realms. Their physical death was not truly death, as they had cultivated the path to the Deathless through constant mindfulness."
+                    }
+                },
+                {
+                    "id": 12,
+                    "verse_number": 22,
+                    "pali": "Etaṃ visesato ñatvā, appamādamhi paṇḍitā; Appamāde pamodanti, ariyānaṃ gocare ratā.",
+                    "translation": "Clearly understanding this excellence of heedfulness, the wise exult therein and enjoy the resort of the Noble Ones.",
+                    "commentary": "The wise recognize that heedfulness is not a burden but a source of joy. They delight in mindfulness because they understand it leads to liberation. The 'resort of the Noble Ones' refers to the meditative states and wisdom that arise from sustained mindfulness practice.",
+                    "story": {
+                        "title": "The Story of Mahakassapa Thera",
+                        "content": "Venerable Mahakassapa was renowned for his strict adherence to the ascetic practices and constant mindfulness. Even in old age, he never relaxed his vigilance. When other monks suggested he should take it easy, he replied that the joy he found in heedfulness far exceeded any comfort from relaxation. The Buddha praised him, saying that Mahakassapa's delight in mindfulness was the mark of a true Noble One. His constant awareness led him to become one of the Buddha's foremost disciples and the leader of the First Buddhist Council."
+                    }
+                },
+                {
+                    "id": 13,
+                    "verse_number": 23,
+                    "pali": "Te jhāyino sātatikā, niccaṃ daḷhaparakkamā; Phusanti dhīrā nibbānaṃ, yogakkhemaṃ anuttaraṃ.",
+                    "translation": "Those who meditate with perseverance, constantly firm in their effort—the wise ones touch Nibbana, the supreme freedom from bondage.",
+                    "commentary": "This verse describes the path to liberation. Those who practice meditation consistently and with strong effort will eventually attain Nibbana, described here as the supreme freedom from all bondage. The key is perseverance and constant effort, not sporadic practice.",
+                    "story": {
+                        "title": "The Story of Venerable Potthila",
+                        "content": "Venerable Potthila was a learned monk who could recite and explain all the Buddha's teachings but had not practiced meditation seriously. The Buddha called him 'Empty Potthila' because despite his knowledge, he had not attained any realization. Humbled, Potthila sought out a young Arahant monk to teach him meditation. Following instructions, he practiced with unwavering perseverance and firm effort. After sustained practice, he attained Arahantship and touched Nibbana. His story illustrates that knowledge alone is not enough; only through persistent meditation practice can one reach the supreme freedom."
+                    }
+                },
+                {
+                    "id": 14,
+                    "verse_number": 24,
+                    "pali": "Uṭṭhānavato satīmato, sucikammassa nisammakārino; Saññatassa ca dhammajīvino, appamattassa yasobhivaḍḍhati.",
+                    "translation": "The glory of one who is energetic, mindful, pure in deed, considerate, self-controlled, righteous in living, and heedful steadily increases.",
+                    "commentary": "This verse lists the qualities that lead to increasing spiritual glory and progress. Energy, mindfulness, pure actions, thoughtfulness, self-control, righteous living, and heedfulness work together to create a life of increasing virtue and wisdom. Such a person naturally gains respect and makes steady progress on the path.",
+                    "story": {
+                        "title": "The Story of Cūḷapanthaka",
+                        "content": "Cūḷapanthaka was considered dull-witted and could not memorize even a single verse. His brother, also a monk, told him he was not fit for monastic life. Heartbroken, Cūḷapanthaka was about to leave when the Buddha took him under his wing. The Buddha gave him a simple practice: mindfully wiping a cloth while contemplating impurity. Cūḷapanthaka practiced this with tremendous energy and heedfulness. Through this simple practice, he developed deep concentration and insight, eventually attaining Arahantship. His glory increased not through intellectual learning but through energetic, mindful, and heedful practice."
+                    }
+                },
+                {
+                    "id": 15,
+                    "verse_number": 25,
+                    "pali": "Uṭṭhānenappamādena, saṃyamena damena ca; Dīpaṃ kayirātha medhāvī, yaṃ ogho nābhikīrati.",
+                    "translation": "By effort and heedfulness, discipline and self-control, let the wise one make for oneself an island which no flood can overwhelm.",
+                    "commentary": "This verse uses the metaphor of an island to represent a safe refuge from the floods of suffering. Through energetic practice, mindfulness, discipline, and self-control, we can create an unshakeable foundation that cannot be swept away by the torrents of craving, aversion, and delusion. This island is our own spiritual development.",
+                    "story": {
+                        "title": "The Story of a Monk During a Flood",
+                        "content": "During the rainy season, a great flood swept through a region where many monks were staying. Most people fled in panic, losing their possessions and even their lives. However, one monk who had been practicing diligently remained calm and mindful. He had built his 'island' through years of effort, heedfulness, and self-control. While the physical flood raged around him, his mind remained peaceful and unshaken. He helped others find safety and maintained his meditation practice throughout the crisis. The Buddha later used this monk's example to illustrate how spiritual practice creates an inner refuge that no external calamity can destroy."
+                    }
+                },
+                {
+                    "id": 16,
+                    "verse_number": 26,
+                    "pali": "Pamādamanuyuñjanti, bālā dummedhino janā; Appamādañca medhāvī, dhanaṃ seṭṭhaṃva rakkhati.",
+                    "translation": "The foolish and ignorant indulge in heedlessness, but the wise one guards heedfulness as the greatest treasure.",
+                    "commentary": "This verse contrasts the behavior of the foolish and the wise. Foolish people waste their lives in distraction and heedlessness, not recognizing its danger. The wise, however, understand that mindfulness is the most precious treasure they possess and guard it carefully. Just as one would protect great wealth, the wise protect their mindfulness.",
+                    "story": {
+                        "title": "The Story of Two Brothers",
+                        "content": "Two brothers inherited equal wealth from their father. The younger brother spent his days in entertainment and pleasure, heedless of the future. He squandered his inheritance on parties, gambling, and sensual pleasures. The older brother, however, was wise and heedful. He carefully managed his wealth, but more importantly, he used his time to practice meditation and develop mindfulness. Years later, the younger brother was destitute and miserable, having wasted everything. The older brother had not only preserved his material wealth but had gained the far greater treasure of wisdom and peace through his heedful practice. The Buddha used this story to teach that heedfulness is the supreme treasure."
+                    }
+                },
+                {
+                    "id": 17,
+                    "verse_number": 27,
+                    "pali": "Mā pamādamanuyuñjetha, mā kāmaratisanthavaṃ; Appamatto hi jhāyanto, pappoti vipulaṃ sukhaṃ.",
+                    "translation": "Do not indulge in heedlessness; do not consort with sensual pleasures. The heedful one who meditates attains abundant happiness.",
+                    "commentary": "This verse is a direct instruction to avoid heedlessness and sensual indulgence. Instead, one should practice meditation with mindfulness. The happiness that comes from such practice is described as abundant (vipula), far exceeding any pleasure derived from sensual experiences. This is the happiness of inner peace and freedom.",
+                    "story": {
+                        "title": "The Story of a Wealthy Merchant's Son",
+                        "content": "A wealthy merchant's son lived a life of luxury and sensual pleasure. He had everything money could buy and indulged in every entertainment. Despite this, he felt empty and unfulfilled. One day, he encountered a monk who radiated peace and contentment despite owning nothing. Curious, he asked the monk about the source of his happiness. The monk taught him this verse and explained that true happiness comes not from sensual pleasures but from heedful meditation practice. The young man decided to try meditation. As he developed mindfulness and concentration, he discovered a happiness far more profound and lasting than anything his wealth had provided. He eventually ordained and attained liberation."
+                    }
+                },
+                {
+                    "id": 18,
+                    "verse_number": 28,
+                    "pali": "Pamādaṃ appamādena, yadā nudati paṇḍito; Paññāpāsādamāruyha, asoko sokiniṃ pajaṃ; Pabbataṭṭhova bhūmaṭṭhe, dhīro bāle avekkhati.",
+                    "translation": "When the wise one by heedfulness dispels heedlessness, ascending the palace of wisdom, one, free from sorrow, surveys the sorrowing people, as a mountain-dweller surveys the people on the plain below.",
+                    "commentary": "This verse describes the transformation that occurs when one replaces heedlessness with heedfulness. The wise person, through mindfulness, ascends to the 'palace of wisdom' and becomes free from sorrow. From this elevated perspective, they can see others still trapped in suffering, like someone on a mountain looking down at people on the plain. This is not a perspective of superiority but of compassion and understanding.",
+                    "story": {
+                        "title": "The Story of Venerable Ānanda's Realization",
+                        "content": "Venerable Ānanda served as the Buddha's attendant for many years. Despite his close proximity to the Buddha and his excellent memory of the teachings, he had not yet attained Arahantship because he had been somewhat heedless in his meditation practice. After the Buddha's passing, when the First Council was being organized, Ānanda realized he needed to make a final effort. He practiced with intense heedfulness throughout the night. Just before dawn, as he was lying down to rest, he attained Arahantship. In that moment, he ascended the palace of wisdom and became free from all sorrow. Looking back at his years of heedlessness, he could see clearly how it had delayed his progress, like viewing the plain from a mountain peak."
+                    }
+                },
+                {
+                    "id": 19,
+                    "verse_number": 29,
+                    "pali": "Appamatto pamattesu, suttesu bahujāgaro; Abalassaṃva sīghasso, hitvā yāti sumedhaso.",
+                    "translation": "Heedful among the heedless, wide awake among the sleeping, the wise one advances like a swift horse, leaving behind the weak horse.",
+                    "commentary": "This verse uses the simile of a race to illustrate spiritual progress. While most people are heedless and spiritually asleep, the mindful practitioner is awake and alert. Such a person makes rapid progress on the spiritual path, like a strong, swift horse that easily outpaces weaker horses. The 'race' is not against others but toward liberation.",
+                    "story": {
+                        "title": "The Story of Venerable Soṇa",
+                        "content": "Venerable Soṇa was a monk who practiced with such intense energy that his feet would bleed from walking meditation. However, he was not making progress because his effort was unbalanced. The Buddha taught him to balance his energy like tuning a lute—not too tight, not too loose. Following this advice, Soṇa practiced with balanced heedfulness. While other monks were sleeping or being heedless, he remained mindfully awake and alert. His progress accelerated dramatically, and he soon attained Arahantship. Like a swift horse that had found its proper stride, he advanced rapidly while others lagged behind in heedlessness."
+                    }
+                },
+                {
+                    "id": 20,
+                    "verse_number": 30,
+                    "pali": "Appamādena maghavā, devānaṃ seṭṭhataṃ gato; Appamādaṃ pasaṃsanti, pamādo garahito sadā.",
+                    "translation": "By heedfulness did Maghavan become chief of the gods. Heedfulness is always praised; heedlessness is always blamed.",
+                    "commentary": "This verse uses the example of Maghavan (Sakka, king of the gods) to illustrate the power of heedfulness. According to Buddhist cosmology, Sakka attained his position through the merit of heedful practice in a past life. The verse emphasizes that heedfulness is universally praised by the wise, while heedlessness is always condemned. This is not arbitrary but reflects the natural consequences of these qualities.",
+                    "story": {
+                        "title": "The Story of Sakka's Past Life",
+                        "content": "In a past life, Sakka (Maghavan) was a young man named Magha who lived in a village. He noticed that the road to the village was in poor condition, making it difficult for people to travel, especially monks going for alms. With heedful attention to the welfare of others, Magha organized his friends to repair the road. They worked diligently and mindfully, creating a smooth path. Through this act of heedful service and the merit it generated, Magha was reborn as Sakka, king of the gods. The Buddha taught this story to show that heedfulness in even simple acts of kindness can lead to great results, while heedlessness wastes precious opportunities for doing good."
+                    }
+                }
+            ]
+        }
+    ]
+}

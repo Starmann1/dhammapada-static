@@ -1,0 +1,427 @@
+{
+    "chapters": [
+        {
+            "id": 1,
+            "name_pali": "Yamaka Vagga",
+            "name_en": "The Pairs",
+            "summary": "This chapter explores the fundamental duality of mental states and their consequences. It emphasizes how our thoughts shape our reality and determine our happiness or suffering.",
+            "verses": [
+                {
+                    "id": 1,
+                    "verse_number": 1,
+                    "pali": "Manopubbaṅgamā dhammā, manoseṭṭhā manomayā; Manasā ce paduṭṭhena, bhāsati vā karoti vā; Tato naṃ dukkhamanveti, cakkaṃva vahato padaṃ.",
+                    "translation": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with an impure mind a person speaks or acts, suffering follows him like the wheel that follows the foot of the ox.",
+                    "commentary": "This verse teaches that all our experiences originate from the mind. When we act or speak with a corrupted mind filled with greed, hatred, or delusion, suffering inevitably follows us. Just as a wheel follows the ox that pulls the cart, our suffering is inseparable from our unwholesome mental states.",
+                    "story": {
+                        "title": "The Story of Cakkhupala Thera",
+                        "content": "Cakkhupala was a monk who became blind while meditating. In a past life, he had been a physician who deliberately blinded a woman to keep her dependent on him. The Buddha explained that his blindness was the result of that past evil deed. Despite his blindness, Cakkhupala attained Arahantship through diligent practice. One night, while walking in meditation, he accidentally stepped on some insects. Other monks accused him of killing intentionally, but the Buddha declared him innocent, explaining that an Arahant cannot intentionally kill, as his mind is pure. This story illustrates how past unwholesome actions (done with an impure mind) bring suffering, while present pure actions lead to liberation."
+                    }
+                },
+                {
+                    "id": 2,
+                    "verse_number": 2,
+                    "pali": "Manopubbaṅgamā dhammā, manoseṭṭhā manomayā; Manasā ce pasannena, bhāsati vā karoti vā; Tato naṃ sukhamanveti, chāyāva anapāyinī.",
+                    "translation": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with a pure mind a person speaks or acts, happiness follows him like his never-departing shadow.",
+                    "commentary": "This is the positive counterpart to the first verse. When our mind is pure, filled with loving-kindness, compassion, and wisdom, happiness naturally follows all our actions. Like a shadow that never leaves us, this happiness is inseparable from wholesome mental states.",
+                    "story": {
+                        "title": "The Story of Matthakundali",
+                        "content": "Matthakundali was a young boy from a wealthy family whose miserly father never gave him proper food or clothing. When the boy fell ill and was dying, his father finally called a physician, but it was too late. The Buddha visited the dying boy and helped him develop a pure, serene mind by guiding him to offer a simple mental gift. With this pure intention, the boy died peacefully and was reborn in a heavenly realm. The Buddha then revealed that in a past life, Matthakundali had been a generous person, and this past wholesome karma, combined with his final pure thought, brought him happiness. This demonstrates how a pure mind, even in the last moments, can lead to a fortunate rebirth."
+                    }
+                },
+                {
+                    "id": 3,
+                    "verse_number": 3,
+                    "pali": "Akkocchi maṃ avadhi maṃ, ajini maṃ ahāsi me; Ye ca taṃ upanayhanti, veraṃ tesaṃ na sammati.",
+                    "translation": "He abused me, he struck me, he overpowered me, he robbed me. Those who harbor such thoughts do not still their hatred.",
+                    "commentary": "This verse addresses the destructive nature of holding grudges. When we constantly replay past wrongs in our minds and nurse our grievances, we keep our hatred alive. The mind that clings to resentment cannot find peace. The verse teaches that it is not the original wrong that perpetuates our suffering, but our own mental habit of dwelling on it.",
+                    "story": {
+                        "title": "The Story of Thera Tissa",
+                        "content": "Two monks, both named Tissa, lived in Savatthi. One day, the junior Tissa accidentally stepped on the senior Tissa's robe, tearing it. The senior monk became furious and held a grudge, constantly thinking 'He tore my robe, he disrespected me.' His mind became so consumed with anger that he couldn't meditate or find peace. When the Buddha learned of this, he spoke this verse, explaining that the junior monk's action was accidental and minor, but the senior monk's continuous dwelling on it was causing his own suffering. The Buddha taught that by letting go of the grudge, the senior monk could immediately find peace. Upon hearing this teaching, the senior Tissa released his resentment and soon attained Arahantship."
+                    }
+                },
+                {
+                    "id": 4,
+                    "verse_number": 4,
+                    "pali": "Akkocchi maṃ avadhi maṃ, ajini maṃ ahāsi me; Ye ca taṃ nupanayhanti, veraṃ tesūpasammati.",
+                    "translation": "He abused me, he struck me, he overpowered me, he robbed me. Those who do not harbor such thoughts still their hatred.",
+                    "commentary": "This verse presents the solution to the problem described in verse 3. By choosing not to dwell on past wrongs, by not rehearsing our grievances, we allow our hatred to naturally subside. Peace comes not from getting revenge or receiving apologies, but from our own decision to release resentment from our minds.",
+                    "story": {
+                        "title": "The Story of the Quarreling Monks",
+                        "content": "In the city of Kosambi, monks became divided into two factions over a minor disciplinary matter. Each group believed they were right and held grudges against the other. The dispute escalated until the monastery became unbearable. The Buddha tried to reconcile them, but they were too attached to their positions. Eventually, the Buddha left them and spent the rainy season alone in the forest with an elephant. The lay supporters, disappointed by the monks' behavior, stopped offering them alms. Facing hunger and shame, the monks finally realized their foolishness. They came to the Buddha, confessed their fault, and genuinely let go of their grudges. The Buddha then taught them this verse, explaining that their suffering came not from the original disagreement, but from their refusal to let it go. Once they truly abandoned their resentment, harmony was immediately restored."
+                    }
+                },
+                {
+                    "id": 5,
+                    "verse_number": 5,
+                    "pali": "Na hi verena verāni, sammantīdha kudācanaṃ; Averena ca sammanti, esa dhammo sanantano.",
+                    "translation": "Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is an eternal law.",
+                    "commentary": "This verse expresses one of the Buddha's most profound teachings on conflict resolution. Responding to hatred with more hatred only perpetuates the cycle of suffering. Only by meeting hatred with loving-kindness, understanding, and forgiveness can we truly end conflict. This is described as an eternal law (sanantano dhammo) because it is a universal truth that transcends time and culture.",
+                    "story": {
+                        "title": "The Story of Prince Dighavu",
+                        "content": "Long ago, King Brahmadatta of Kasi conquered the kingdom of Kosala and killed King Dighiti. Before his death, King Dighiti whispered to his son, Prince Dighavu, 'Do not look long, do not look short' - meaning 'Do not perpetuate hatred, but also do not forget the Dhamma.' Prince Dighavu escaped and later became a servant in King Brahmadatta's palace, eventually becoming the king's favorite attendant. One day, while alone with the king in the forest, Dighavu had the perfect opportunity for revenge. He drew his sword, but remembered his father's words. Instead of killing the king, he revealed his identity and explained the teaching of non-hatred. King Brahmadatta was so moved by this act of mercy and wisdom that he returned the kingdom to Dighavu and the two kingdoms lived in peace. The Buddha used this story to illustrate that only non-hatred can truly end hatred."
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name_pali": "Appamāda Vagga",
+            "name_en": "Heedfulness",
+            "summary": "This chapter emphasizes the importance of mindfulness and diligence in spiritual practice. Heedfulness is presented as the path to the deathless, while heedlessness leads to death.",
+            "verses": [
+                {
+                    "id": 6,
+                    "verse_number": 21,
+                    "pali": "Appamādo amatapadaṃ, pamādo maccuno padaṃ; Appamattā na mīyanti, ye pamattā yathā matā.",
+                    "translation": "Heedfulness is the path to the Deathless. Heedlessness is the path to death. The heedful die not. The heedless are as if dead already.",
+                    "commentary": "This verse establishes the fundamental importance of mindfulness (appamāda) in Buddhist practice. The 'Deathless' refers to Nibbana, the unconditioned state beyond birth and death. Those who are heedful, constantly aware and mindful, progress toward liberation. Those who are heedless, living in distraction and delusion, are spiritually dead even while physically alive.",
+                    "story": {
+                        "title": "The Story of Samavati",
+                        "content": "Queen Samavati was known for her exceptional mindfulness and loving-kindness. Despite being the target of a jealous co-wife's plots, she maintained constant awareness and never responded with anger. When her rival set fire to her quarters, Samavati and her attendants died while meditating on loving-kindness. The Buddha explained that because of their heedfulness and pure minds at the moment of death, they were all reborn in heavenly realms. Their physical death was not truly death, as they had cultivated the path to the Deathless through constant mindfulness."
+                    }
+                },
+                {
+                    "id": 7,
+                    "verse_number": 22,
+                    "pali": "Etaṃ visesato ñatvā, appamādamhi paṇḍitā; Appamāde pamodanti, ariyānaṃ gocare ratā.",
+                    "translation": "Clearly understanding this excellence of heedfulness, the wise exult therein and enjoy the resort of the Noble Ones.",
+                    "commentary": "The wise recognize that heedfulness is not a burden but a source of joy. They delight in mindfulness because they understand it leads to liberation. The 'resort of the Noble Ones' refers to the meditative states and wisdom that arise from sustained mindfulness practice.",
+                    "story": {
+                        "title": "The Story of Mahakassapa Thera",
+                        "content": "Venerable Mahakassapa was renowned for his strict adherence to the ascetic practices and constant mindfulness. Even in old age, he never relaxed his vigilance. When other monks suggested he should take it easy, he replied that the joy he found in heedfulness far exceeded any comfort from relaxation. The Buddha praised him, saying that Mahakassapa's delight in mindfulness was the mark of a true Noble One. His constant awareness led him to become one of the Buddha's foremost disciples and the leader of the First Buddhist Council."
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name_pali": "Citta Vagga",
+            "name_en": "The Mind",
+            "summary": "This chapter focuses on the nature of the mind and the importance of training it. The mind is compared to various things to illustrate its restless and difficult-to-control nature.",
+            "verses": [
+                {
+                    "id": 8,
+                    "verse_number": 33,
+                    "pali": "Phandanaṃ capalaṃ cittaṃ, dūrakkhaṃ dunnivārayaṃ; Ujuṃ karoti medhāvī, usukāro va tejanaṃ.",
+                    "translation": "The flickering, fickle mind, difficult to guard, difficult to control—the wise one straightens it as a fletcher straightens an arrow.",
+                    "commentary": "This verse uses the simile of an arrow-maker to illustrate the work of mental training. Just as a fletcher must carefully straighten a crooked arrow shaft, the wise person must patiently work to straighten the wandering mind. The mind's natural tendency is to flicker from object to object, making it difficult to control, but through persistent effort, it can be trained.",
+                    "story": {
+                        "title": "The Story of Meghiya Thera",
+                        "content": "Meghiya was the Buddha's attendant who, seeing a beautiful mango grove, asked permission to meditate there alone. Despite the Buddha's advice to wait, Meghiya insisted. In the grove, his mind was assailed by unwholesome thoughts and he couldn't concentrate. Frustrated, he returned to the Buddha, who taught him this verse. The Buddha explained that the mind is like a wild animal that must be gradually tamed, not forced. He taught Meghiya five methods to steady the mind: good friendship, moral conduct, wise conversation, energy, and wisdom. Following this guidance, Meghiya eventually attained Arahantship."
+                    }
+                },
+                {
+                    "id": 9,
+                    "verse_number": 34,
+                    "pali": "Vārijova thale khitto, okamokata ubbhato; Pariphandatidaṃ cittaṃ, māradheyyaṃ pahātave.",
+                    "translation": "Like a fish out of water, thrown on dry ground, this mind thrashes about, trying to escape Mara's command.",
+                    "commentary": "This verse compares the untrained mind to a fish struggling on dry land. When we try to remove the mind from its habitual patterns of craving and aversion (Mara's domain), it resists violently. The image conveys both the difficulty of mental training and the urgency of the task—just as a fish will die if left on land, we suffer when caught in Mara's realm.",
+                    "story": {
+                        "title": "The Story of Cittahattha",
+                        "content": "Cittahattha was a wealthy householder who practiced meditation but struggled with a restless mind. Whenever he sat to meditate, his mind would race with thoughts of his business, family, and possessions. He felt like he was drowning in mental chaos. The Buddha taught him this verse and explained that the mind's resistance is natural—it has been conditioned by lifetimes of craving. The Buddha advised him to be patient and persistent, comparing the process to training a wild elephant. With continued practice, Cittahattha's mind gradually settled, and he eventually attained the first stage of enlightenment."
+                    }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name_pali": "Puppha Vagga",
+            "name_en": "Flowers",
+            "summary": "This chapter uses the metaphor of flowers to teach about the impermanence of life, the importance of good deeds, and the fragrance of virtue that surpasses all worldly scents.",
+            "verses": [
+                {
+                    "id": 10,
+                    "verse_number": 44,
+                    "pali": "Ko imaṃ paṭhaviṃ vicessati, yamalokañca imaṃ sadevakaṃ; Ko dhammapadaṃ sudesitaṃ, kusalo pupphamiva pacessati.",
+                    "translation": "Who shall examine this earth, the realm of Yama, and this world with its devas? Who shall select a well-taught Dhamma word as a skilled person selects a flower?",
+                    "commentary": "This verse poses a rhetorical question about who can truly understand the nature of existence and select the right teachings. The answer is the wise person who, like a skilled florist selecting the best flowers, can discern the true Dhamma from false teachings. The verse emphasizes the need for wisdom and discernment in spiritual practice.",
+                    "story": {
+                        "title": "The Story of Visakha",
+                        "content": "Visakha was a devoted lay disciple who had memorized many of the Buddha's teachings. One day, she was asked by a group of wandering ascetics to explain the Buddha's doctrine. Like a skilled florist selecting the finest flowers, she carefully chose the most appropriate teachings for her audience, explaining the Four Noble Truths and the Noble Eightfold Path with such clarity that several of the ascetics became followers of the Buddha. The Buddha praised her, saying she had the wisdom to select and present the Dhamma like one who knows how to choose the perfect flower for each occasion."
+                    }
+                },
+                {
+                    "id": 11,
+                    "verse_number": 45,
+                    "pali": "Sekho paṭhaviṃ vicessati, yamalokañca imaṃ sadevakaṃ; Sekho dhammapadaṃ sudesitaṃ, kusalo pupphamiva pacessati.",
+                    "translation": "A disciple in training shall examine this earth, the realm of Yama, and this world with its devas. A disciple in training shall select a well-taught Dhamma word as a skilled person selects a flower.",
+                    "commentary": "This verse answers the previous verse's question: it is the sekha (disciple in training) who has the wisdom to examine existence and select the right teachings. A sekha is one who has attained at least the first stage of enlightenment but has not yet reached Arahantship. Such a person has developed the wisdom to discern truth from falsehood.",
+                    "story": {
+                        "title": "The Story of Anathapindika",
+                        "content": "Anathapindika, the great lay supporter of the Buddha, was a Stream-winner (the first stage of enlightenment). When he was on his deathbed, Venerable Sariputta visited him and taught him a profound meditation on the impermanence of all conditioned things. Anathapindika, though in great pain, was able to understand and practice this teaching immediately because his mind had been trained through his earlier attainment. Like a skilled person selecting flowers, he could grasp the essence of even the most subtle teachings. This ability to discern and apply the Dhamma is the mark of a true disciple in training."
+                    }
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name_pali": "Bāla Vagga",
+            "name_en": "The Fool",
+            "summary": "This chapter describes the characteristics of the fool and the consequences of foolish behavior. It contrasts the fool with the wise person and emphasizes the suffering that comes from ignorance.",
+            "verses": [
+                {
+                    "id": 12,
+                    "verse_number": 60,
+                    "pali": "Dīghā jāgarato ratti, dīghaṃ santassa yojanaṃ; Dīgho bālānaṃ saṃsāro, saddhammaṃ avijānataṃ.",
+                    "translation": "Long is the night to the wakeful; long is the league to the weary; long is samsara to the foolish who know not the true Dhamma.",
+                    "commentary": "This verse uses three similes to illustrate how suffering is prolonged by ignorance. Just as night seems endless to one who cannot sleep, and a journey seems interminable to one who is exhausted, the cycle of rebirth (samsara) seems endless to those who do not understand the Buddha's teachings. Knowledge of the true Dhamma provides the way out of this suffering.",
+                    "story": {
+                        "title": "The Story of Kisagotami",
+                        "content": "Kisagotami's young son died, and in her grief, she refused to accept his death. Carrying the child's body, she went from house to house asking for medicine to revive him. People thought she had gone mad. Finally, someone directed her to the Buddha. The Buddha told her he could help, but first she must bring a mustard seed from a house where no one had ever died. Kisagotami went from house to house, but everywhere she heard stories of death—parents, children, spouses, friends. Gradually, she realized that death is universal. She understood that her suffering was prolonged by her refusal to accept this truth. She cremated her son's body and returned to the Buddha, who taught her this verse. Understanding the true Dhamma, she was no longer a fool lost in samsara, and she eventually attained Arahantship."
+                    }
+                },
+                {
+                    "id": 13,
+                    "verse_number": 61,
+                    "pali": "Carañce nādhigaccheyya, seyyaṃ sadisamattano; Ekacariyaṃ daḷhaṃ kayirā, natthi bāle sahāyatā.",
+                    "translation": "If one cannot find a companion who is better or equal, let one resolutely pursue a solitary course; there is no fellowship with the foolish.",
+                    "commentary": "This verse advises that it is better to walk the spiritual path alone than in the company of fools. Foolish companions can lead us astray, reinforcing unwholesome habits and wrong views. If we cannot find wise companions, solitude is preferable, as it allows us to focus on our practice without negative influences.",
+                    "story": {
+                        "title": "The Story of a Monk and His Former Wife",
+                        "content": "A monk was practicing meditation in the forest when his former wife, who had not accepted his ordination, came to tempt him to return to lay life. She used various seductive means to lure him back. The monk, remembering this verse taught by the Buddha, realized that association with her would be association with a fool who did not understand the Dhamma. He resolutely refused her advances and continued his solitary practice. His determination was so strong that he soon attained Arahantship. The Buddha later praised him, saying that solitude with wisdom is far superior to companionship with those who would lead us away from the path."
+                    }
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name_pali": "Paṇḍita Vagga",
+            "name_en": "The Wise",
+            "summary": "This chapter describes the qualities of the wise person and the benefits of wisdom. It emphasizes the value of associating with the wise and following their guidance.",
+            "verses": [
+                {
+                    "id": 14,
+                    "verse_number": 76,
+                    "pali": "Nidhīnaṃva pavattāraṃ, yaṃ passe vajjadassinaṃ; Niggayhavādiṃ medhāviṃ, tādisaṃ paṇḍitaṃ bhaje; Tādisaṃ bhajamānassa, seyyo hoti na pāpiyo.",
+                    "translation": "One should follow a wise person who points out one's faults as if pointing out hidden treasure. It is always better, never worse, to associate with such a wise person.",
+                    "commentary": "This verse teaches the value of constructive criticism from a wise person. Just as we would be grateful to someone who shows us hidden treasure, we should appreciate those who point out our faults, as this helps us improve. The wise person who corrects us is a true friend, and associating with such people always leads to our betterment.",
+                    "story": {
+                        "title": "The Story of Radha",
+                        "content": "Radha was a monk who had a tendency toward laziness and would often skip meditation sessions. His teacher, Venerable Sariputta, would regularly point out his faults and encourage him to be more diligent. At first, Radha felt resentful, thinking Sariputta was being harsh. However, he remembered this verse and realized that Sariputta's corrections were like someone showing him hidden treasure—the treasure of spiritual progress. He changed his attitude and began to appreciate the guidance. With renewed effort and gratitude for his teacher's corrections, Radha eventually attained Arahantship. He later said that Sariputta's willingness to point out his faults was the greatest gift he had ever received."
+                    }
+                },
+                {
+                    "id": 15,
+                    "verse_number": 77,
+                    "pali": "Ovadeyyānusāseyya, asabbhā ca nivāraye; Satañhi so piyo hoti, asataṃ hoti appiyo.",
+                    "translation": "Let one advise, instruct, and restrain others from wrong. Such a person is dear to the good and detested by the bad.",
+                    "commentary": "This verse describes the duty of the wise to guide others. Those who offer good advice and help restrain others from wrongdoing are valued by virtuous people but disliked by those who wish to continue in their unwholesome ways. The wise person should not be discouraged by the dislike of the foolish but should continue to offer guidance.",
+                    "story": {
+                        "title": "The Story of Venerable Mahakassapa",
+                        "content": "Venerable Mahakassapa was known for his strict discipline and his willingness to correct other monks when they strayed from the Vinaya (monastic code). Some monks appreciated his guidance and became better practitioners because of it. However, a group of unruly monks resented his corrections and complained to the Buddha that Mahakassapa was too harsh. The Buddha defended Mahakassapa, teaching this verse and explaining that a true teacher must be willing to correct others, even if it makes them temporarily unpopular. The Buddha said that Mahakassapa's willingness to guide others was a sign of his compassion, not harshness. The good monks appreciated him, while only those attached to their faults disliked him."
+                    }
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name_pali": "Arahanta Vagga",
+            "name_en": "The Arahant",
+            "summary": "This chapter describes the qualities and characteristics of the Arahant, the fully enlightened being who has eradicated all defilements and will not be reborn.",
+            "verses": [
+                {
+                    "id": 16,
+                    "verse_number": 90,
+                    "pali": "Gataddhino visokassa, vippamuttassa sabbadhi; Sabbaganthappahīnassa, pariḷāho na vijjati.",
+                    "translation": "For one who has completed the journey, who is sorrowless and wholly set free, who has destroyed all fetters, there is no burning (of the passions).",
+                    "commentary": "This verse describes the state of an Arahant. Having completed the spiritual journey, such a person is free from sorrow because they have abandoned all attachments. The 'burning' refers to the fires of greed, hatred, and delusion, which have been completely extinguished in the Arahant. They live in perfect peace, unaffected by worldly conditions.",
+                    "story": {
+                        "title": "The Story of Venerable Sariputta's Final Days",
+                        "content": "When Venerable Sariputta, the Buddha's chief disciple, was approaching death, he showed no signs of fear or distress. His attendant, Venerable Cunda, was amazed at his teacher's complete equanimity even in the face of severe illness and impending death. Sariputta explained that having destroyed all attachments and fetters, he had no fear of death or desire for continued existence. The burning of passion, aversion, and delusion had been completely extinguished. He passed away peacefully, demonstrating the truth of this verse. The Buddha later confirmed that Sariputta had been completely free from all suffering, having reached the end of the journey."
+                    }
+                },
+                {
+                    "id": 17,
+                    "verse_number": 91,
+                    "pali": "Uyyuñjanti satīmanto, na nikete ramanti te; Haṃsāva pallalaṃ hitvā, okamokañjahanti te.",
+                    "translation": "The mindful exert themselves. They do not delight in an abode. Like swans that abandon a lake, they leave home after home.",
+                    "commentary": "This verse uses the simile of swans moving from lake to lake to describe how Arahants do not cling to any dwelling place. They are not attached to comfort or familiar surroundings. Their mindfulness keeps them aware that all conditioned things are impermanent, so they do not develop attachment to any particular place or situation.",
+                    "story": {
+                        "title": "The Story of Venerable Mahakassapa's Wandering",
+                        "content": "After the Buddha's passing, Venerable Mahakassapa continued to wander from place to place, never staying long in any one location. When asked why he didn't settle in a comfortable monastery, he explained that attachment to place is a subtle form of clinging. Like a swan that doesn't become attached to any particular lake but moves freely according to the seasons, he moved from place to place, teaching and practicing without attachment. His constant wandering was not restlessness but freedom—he was equally at peace in a forest, a village, or a mountain cave. This exemplified the Arahant's non-attachment to all conditioned things."
+                    }
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name_pali": "Sahassa Vagga",
+            "name_en": "The Thousands",
+            "summary": "This chapter uses the number 'thousand' to emphasize the value of quality over quantity in spiritual practice. One meaningful action is worth more than a thousand meaningless ones.",
+            "verses": [
+                {
+                    "id": 18,
+                    "verse_number": 100,
+                    "pali": "Sahassam api ce vācā, anatthapadasaṃhitā; Ekaṃ atthapadaṃ seyyo, yaṃ sutvā upasammati.",
+                    "translation": "Better than a thousand useless words is one useful word, hearing which one attains peace.",
+                    "commentary": "This verse emphasizes the importance of meaningful speech over mere verbosity. A single word that leads to peace and understanding is far more valuable than countless words that serve no purpose. This applies both to the teachings we hear and the words we speak—quality matters more than quantity.",
+                    "story": {
+                        "title": "The Story of Bahubhanaka",
+                        "content": "There was a monk named Bahubhanaka who had memorized many discourses and was very proud of his knowledge. He could recite for hours, impressing people with the volume of his learning. However, he had not practiced meditation and had not experienced any real insight. One day, he met a simple forest monk who knew only one short verse but had practiced it deeply and attained Arahantship. The forest monk's single verse had brought him complete peace, while Bahubhanaka's thousands of memorized words had not freed him from suffering. Realizing this, Bahubhanaka was humbled. He stopped focusing on accumulating knowledge and began to practice deeply. Eventually, he too attained enlightenment, understanding that one word practiced is worth more than a thousand merely memorized."
+                    }
+                },
+                {
+                    "id": 19,
+                    "verse_number": 101,
+                    "pali": "Sahassam api ce gāthā, anatthapadasaṃhitā; Ekaṃ gāthāpadaṃ seyyo, yaṃ sutvā upasammati.",
+                    "translation": "Better than a thousand useless verses is one verse, hearing which one attains peace.",
+                    "commentary": "Similar to the previous verse, this teaching emphasizes that a single verse that brings peace and insight is more valuable than a thousand verses that do not lead to liberation. The criterion for judging the value of teachings is whether they lead to the cessation of suffering.",
+                    "story": {
+                        "title": "The Story of Tambadathika",
+                        "content": "Tambadathika was an old monk who knew only one verse from the Dhammapada, but he had practiced it so thoroughly that he had attained Arahantship. Younger monks who had memorized many texts would sometimes mock him for knowing so little. One day, the Buddha overheard this and called the assembly together. He asked Tambadathika to recite his one verse and explain its meaning. When Tambadathika spoke, his words were filled with such profound understanding and peace that everyone present was moved. The Buddha then explained that Tambadathika's single verse, truly understood and practiced, was worth more than all the verses the other monks had merely memorized. True value lies not in how much we know, but in how deeply we understand and practice what we know."
+                    }
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name_pali": "Pāpa Vagga",
+            "name_en": "Evil",
+            "summary": "This chapter warns against evil deeds and explains how evil actions bring suffering both in this life and in future lives. It emphasizes the importance of avoiding even small evils.",
+            "verses": [
+                {
+                    "id": 20,
+                    "verse_number": 116,
+                    "pali": "Abhittharetha kalyāṇe, pāpā cittaṃ nivāraye; Dandhaṃ hi karoto puññaṃ, pāpasmiṃ ramatī mano.",
+                    "translation": "Make haste in doing good; restrain your mind from evil. The mind of one who is slow in doing good delights in evil.",
+                    "commentary": "This verse urges us to be quick in performing good deeds and vigilant in restraining the mind from evil. The mind naturally tends toward unwholesome states if we are not careful. When we delay in doing good, the mind finds opportunities to engage in evil, as it naturally seeks pleasure in the wrong places.",
+                    "story": {
+                        "title": "The Story of a Farmer",
+                        "content": "There was a farmer who always intended to practice generosity and visit the monastery, but he kept postponing it, saying 'I'll do it after the harvest,' or 'I'll do it when I have more time.' Meanwhile, he found himself engaging in various unwholesome activities—harsh speech with his workers, cheating in business, and drinking. One day, he fell seriously ill. On his deathbed, he regretted all the good he had intended to do but never did, and all the evil he had done instead. A monk visiting him taught this verse, explaining that the mind naturally inclines toward evil when we delay in doing good. The farmer's dying thought was one of deep regret. The Buddha later used this story to teach that we should never postpone doing good, as we never know when death will come."
+                    }
+                },
+                {
+                    "id": 21,
+                    "verse_number": 117,
+                    "pali": "Pāpañce puriso kayirā, na naṃ kayirā punappunaṃ; Na tamhi chandaṃ kayirātha, dukkho pāpassa uccayo.",
+                    "translation": "Should a person commit evil, let them not do it again and again. Let them not find pleasure therein, for painful is the accumulation of evil.",
+                    "commentary": "This verse warns against repeating evil actions. Each time we commit an unwholesome deed, it becomes easier to do it again, creating a harmful habit. The accumulation of evil deeds leads to great suffering, both in terms of the mental states they create and their karmic results. We should be especially vigilant not to repeat our mistakes.",
+                    "story": {
+                        "title": "The Story of Cundasukarika",
+                        "content": "Cundasukarika was a pig butcher who killed pigs daily for a living. At first, he felt some remorse, but as the years passed, the killing became routine and he felt nothing. He even began to take pleasure in his skill at slaughtering. When he fell ill in old age, his mind, conditioned by years of killing, could only think of pigs. He died making pig-like sounds, and according to the Buddha, was reborn in a hell realm. The Buddha used this story to illustrate how repeated evil actions condition the mind so strongly that they determine our mental state at death and our subsequent rebirth. Each repetition of an evil deed makes it more ingrained and more difficult to overcome."
+                    }
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name_pali": "Daṇḍa Vagga",
+            "name_en": "Violence",
+            "summary": "This chapter teaches about the consequences of violence and the importance of non-violence. It emphasizes that all beings fear death and suffering, and therefore we should not harm others.",
+            "verses": [
+                {
+                    "id": 22,
+                    "verse_number": 129,
+                    "pali": "Sabbe tasanti daṇḍassa, sabbe bhāyanti maccuno; Attānaṃ upamaṃ katvā, na haneyya na ghātaye.",
+                    "translation": "All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill.",
+                    "commentary": "This verse teaches the principle of empathy as the basis for non-violence. Just as we fear death and suffering, so do all other beings. By putting ourselves in another's place, we naturally develop compassion and refrain from causing harm. This is the foundation of the Buddhist precept against killing.",
+                    "story": {
+                        "title": "The Story of a Cruel Butcher",
+                        "content": "There was a butcher who showed no mercy in his work, killing animals without any compassion. One day, he was attacked by robbers who threatened to kill him. As he faced death, he was overwhelmed with terror and begged for his life. In that moment, he suddenly understood the fear that the animals he had killed must have felt. He realized that all beings, like himself, fear death and suffering. The robbers, moved by his genuine transformation, spared his life. The butcher immediately gave up his profession and became a follower of the Buddha. He spent the rest of his life practicing loving-kindness and teaching others about the importance of empathy and non-violence. The Buddha used his story to illustrate this verse—true non-violence comes from understanding that others feel just as we do."
+                    }
+                },
+                {
+                    "id": 23,
+                    "verse_number": 130,
+                    "pali": "Sabbe tasanti daṇḍassa, sabbesaṃ jīvitaṃ piyaṃ; Attānaṃ upamaṃ katvā, na haneyya na ghātaye.",
+                    "translation": "All tremble at violence; life is dear to all. Putting oneself in the place of another, one should not kill nor cause another to kill.",
+                    "commentary": "This verse reinforces the previous one, emphasizing that life is precious to all beings. The repetition underscores the importance of this teaching. When we truly understand that others cherish their lives as much as we cherish ours, we cannot bring ourselves to harm them.",
+                    "story": {
+                        "title": "The Story of Prince Abhaya",
+                        "content": "Prince Abhaya was fond of hunting and would regularly go on hunting expeditions, killing deer and other animals for sport. One day, while chasing a deer, he became separated from his companions and got lost in the forest. As night fell, he became frightened, fearing attacks from wild animals. He climbed a tree to safety and spent a terrified night listening to the sounds of the forest. In his fear, he thought about the deer he had hunted and realized that they must have felt the same terror he was now experiencing. He understood that life was dear to them, just as his life was dear to him. When he returned to the palace, he gave up hunting forever and became a devoted follower of the Buddha. The Buddha taught him this verse, praising his realization that all beings cherish their lives."
+                    }
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name_pali": "Jarā Vagga",
+            "name_en": "Old Age",
+            "summary": "This chapter reflects on the nature of old age, decay, and death. It emphasizes the impermanence of the body and the importance of spiritual practice before it's too late.",
+            "verses": [
+                {
+                    "id": 24,
+                    "verse_number": 146,
+                    "pali": "Ko nu hāso kimānando, niccaṃ pajjalite sati; Andhakārena onaddhā, padīpaṃ na gavessatha.",
+                    "translation": "What is laughter, what is joy, when the world is ever burning? Shrouded in darkness, will you not seek a light?",
+                    "commentary": "This verse uses the metaphor of a burning world to describe the suffering inherent in existence. The 'burning' refers to the fires of greed, hatred, and delusion that constantly afflict beings. The verse questions why people seek pleasure and entertainment when they are surrounded by suffering. It urges us to seek the light of wisdom rather than remaining in the darkness of ignorance.",
+                    "story": {
+                        "title": "The Story of Patacara",
+                        "content": "Patacara was a young woman who lost her entire family in a series of tragic events—her husband, two children, parents, and brother all died within a short time. Overwhelmed by grief, she went mad and wandered naked through the streets. When she encountered the Buddha, he helped her regain her senses and asked her this question: 'What is there to laugh about when the world is burning with suffering?' Patacara realized that she had been living in ignorance, seeking happiness in impermanent things. She understood that the only true refuge is in the Dhamma. She ordained as a nun and through diligent practice, attained Arahantship. She later became a great teacher, helping many other women who had experienced loss and suffering."
+                    }
+                },
+                {
+                    "id": 25,
+                    "verse_number": 147,
+                    "pali": "Passa cittakataṃ bimbaṃ, arukāyaṃ samussitaṃ; Āturaṃ bahusaṅkappaṃ, yassa natthi dhuvaṃ ṭhiti.",
+                    "translation": "Behold this painted image, a body full of wounds, put together, diseased, and full of many thoughts, in which there is no permanence or stability.",
+                    "commentary": "This verse describes the true nature of the body—it is like a painted image that appears attractive on the surface but is actually full of wounds and disease. The body is constantly changing and has no permanent essence. It is subject to decay and death. Understanding this helps us overcome attachment to the body and sensual pleasures.",
+                    "story": {
+                        "title": "The Story of Sirimā",
+                        "content": "Sirimā was a courtesan famous for her beauty. She was so proud of her appearance that she scorned the Buddha and his teachings. One day, she suddenly fell ill with a terrible disease that ravaged her body. Her beautiful skin became covered with sores, her hair fell out, and her body became emaciated. When she saw her reflection, she was horrified. She realized that her beauty had been temporary and superficial, just as the Buddha had taught. Humbled and repentant, she went to the Buddha, who taught her this verse. She understood that the body is indeed like a painted image—attractive on the outside but full of disease and impermanence within. She ordained as a nun and eventually attained Arahantship, teaching other women not to be attached to physical beauty."
+                    }
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name_pali": "Atta Vagga",
+            "name_en": "The Self",
+            "summary": "This chapter teaches about the importance of self-reliance in spiritual practice and the need to purify oneself. It emphasizes that we are our own refuge and must take responsibility for our spiritual development.",
+            "verses": [
+                {
+                    "id": 26,
+                    "verse_number": 157,
+                    "pali": "Attānañce piyaṃ jaññā, rakkheyya naṃ surakkhitaṃ; Tiṇṇaṃ aññataraṃ yāmaṃ, paṭijaggeyya paṇḍito.",
+                    "translation": "If one holds oneself dear, one should diligently watch oneself. Let the wise person keep vigil during any of the three watches.",
+                    "commentary": "This verse teaches that true self-love means protecting oneself from unwholesome mental states. The 'three watches' refer to the three periods of the night, but metaphorically represent all times—youth, middle age, and old age, or the beginning, middle, and end of any endeavor. The wise person maintains constant vigilance over their mind and actions.",
+                    "story": {
+                        "title": "The Story of Venerable Mahakassapa's Vigil",
+                        "content": "Venerable Mahakassapa was known for his strict self-discipline and constant mindfulness. Even in his old age, he would keep vigil through the night, meditating and watching over his mind. When younger monks asked why he didn't rest more, he explained that he held himself dear—not in the sense of self-indulgence, but in the sense of protecting himself from the dangers of heedlessness. He said that just as a person guards their most precious treasure, he guarded his mind from unwholesome states. His constant vigilance had led him to Arahantship, and he continued to practice diligently as an example to others. The Buddha praised him, saying that this kind of self-care—watching over one's own mind—is the highest form of self-love."
+                    }
+                },
+                {
+                    "id": 27,
+                    "verse_number": 158,
+                    "pali": "Attānameva paṭhamaṃ, patirūpe nivesaye; Athaññamanusāseyya, na kilisseyya paṇḍito.",
+                    "translation": "One should first establish oneself in what is proper; then only should one instruct others. Thus the wise person will not be reproached.",
+                    "commentary": "This verse teaches that before we can effectively teach others, we must first establish ourselves in proper conduct and understanding. If we try to teach others while our own behavior is flawed, we will be criticized and our teachings will not be effective. The wise person first perfects their own practice, then teaches from that foundation of genuine experience.",
+                    "story": {
+                        "title": "The Story of Venerable Upananda",
+                        "content": "Upananda was a monk who was eloquent and enjoyed giving Dhamma talks. However, his own conduct was not always exemplary—he was sometimes lazy in his practice and would bend the monastic rules. When he would teach, people would listen to his words but then point out the contradictions between his teachings and his behavior. His effectiveness as a teacher was limited because he had not first established himself firmly in the practice. After receiving criticism, he took this verse to heart and spent several years in intensive practice, perfecting his own conduct before resuming his teaching. Once he had established himself in proper practice, his teachings became much more powerful and effective, as they were backed by his own genuine realization and impeccable conduct."
+                    }
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name_pali": "Loka Vagga",
+            "name_en": "The World",
+            "summary": "This chapter teaches about the nature of the world and how to live in it wisely. It emphasizes seeing the world as it truly is—impermanent and unsatisfactory—and not being attached to worldly things.",
+            "verses": [
+                {
+                    "id": 28,
+                    "verse_number": 167,
+                    "pali": "Hīnaṃ dhammaṃ na seveyya, pamādena na saṃvase; Micchādiṭṭhiṃ na seveyya, na siyā lokavaḍḍhano.",
+                    "translation": "Do not follow ignoble ways, do not live in heedlessness, do not embrace wrong views, do not be a worldling.",
+                    "commentary": "This verse provides four important guidelines for spiritual practice: avoid base or ignoble behavior, maintain constant mindfulness, hold right views about the nature of reality, and don't be attached to worldly values. A 'worldling' (lokavaḍḍhano) is one who increases worldly attachments rather than working to transcend them.",
+                    "story": {
+                        "title": "The Story of Soreyya",
+                        "content": "Soreyya was a wealthy merchant who lived a life of luxury and pleasure. He followed ignoble ways, living heedlessly and holding wrong views about happiness. He believed that accumulating wealth and enjoying sensual pleasures was the purpose of life. One day, due to his past karma, he was magically transformed into a woman. This shocking change made him realize the impermanence of all conditioned things, including his own body and identity. He sought out the Buddha, who taught him this verse. Soreyya understood that he had been a 'worldling,' increasing his attachments rather than working to free himself from them. He ordained as a monk (after being transformed back) and practiced diligently, eventually attaining Arahantship. His experience taught him that following the world's values leads only to suffering."
+                    }
+                },
+                {
+                    "id": 29,
+                    "verse_number": 168,
+                    "pali": "Uttiṭṭhe nappamajjeyya, dhammaṃ sucaritaṃ care; Dhammacārī sukhaṃ seti, asmiṃ loke paramhi ca.",
+                    "translation": "Arise! Do not be heedless! Follow the path of righteousness. One who follows the Dhamma lives happily in this world and the next.",
+                    "commentary": "This verse is a call to action and diligence. 'Arise' means to rouse oneself from the sleep of heedlessness and delusion. By following the Dhamma—living ethically and practicing meditation—we create happiness both in this life and in future lives. The happiness that comes from Dhamma practice is not dependent on external conditions but arises from inner peace and purity.",
+                    "story": {
+                        "title": "The Story of Santati",
+                        "content": "Santati was a minister who lived a life of luxury and heedlessness, constantly indulging in sensual pleasures. One day, while attending a festival, he saw a magical display created by the Buddha that showed the stages of life from birth to death. Seeing the inevitability of aging and death, Santati was deeply shaken. The Buddha, knowing his mind was ready, taught him this verse: 'Arise! Do not be heedless!' Santati immediately understood that he had been wasting his life in meaningless pursuits. Right there at the festival, he asked for ordination. The Buddha ordained him, and Santati practiced with such intensity that he attained Arahantship that very day. His transformation from a heedless pleasure-seeker to an enlightened being demonstrated the power of 'arising' from delusion and following the Dhamma with diligence."
+                    }
+                }
+            ]
+        }
+    ]
+}
