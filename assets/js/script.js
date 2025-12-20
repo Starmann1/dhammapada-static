@@ -24,6 +24,12 @@ document.addEventListener('DOMContentLoaded', async () => {
     // Initialize search
     initSearch();
 
+    // Initialize scroll features
+    initScrollFeatures();
+
+    // Initialize scroll to top button
+    initScrollToTop();
+
     // Load page content based on URL
     loadPageContent();
 });
@@ -208,41 +214,52 @@ function loadChapterPage(chapterId) {
         `;
     }
 
-    // Update chapter header
+    // Update chapter header (simplified)
     const chapterHeader = document.getElementById('chapterHeader');
     if (chapterHeader) {
         chapterHeader.innerHTML = `
-            <div style="display: flex; align-items: start; gap: 1rem; margin-bottom: 1.5rem;">
+            <div style="display: flex; align-items: start; gap: 1.5rem;">
                 <div class="chapter-number">${chapter.id}</div>
                 <div style="flex: 1;">
-                    <div style="font-size: 0.875rem; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.05em;">
+                    <div style="font-size: 0.875rem; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.5rem;">
                         Chapter ${chapter.id}
                     </div>
-                    <h1 style="font-size: 2rem; margin: 0.5rem 0;">${chapter.name_en}</h1>
-                    <p class="chapter-title-pali" style="font-size: 1.25rem; margin: 0;">${chapter.name_pali}</p>
+                    <h1 style="font-size: 2.5rem; margin: 0 0 0.75rem 0; font-family: 'Playfair Display', serif;">${chapter.name_en}</h1>
+                    <p class="chapter-title-pali" style="font-size: 1.375rem; margin: 0; color: var(--saffron-600);">${chapter.name_pali}</p>
                 </div>
-            </div>
-            <div style="border-left: 4px solid var(--saffron-400); padding-left: 1.5rem;">
-                <p style="font-size: 1.125rem; line-height: 1.6; margin: 0;">${chapter.summary}</p>
-            </div>
-            <div style="margin-top: 1.5rem; display: flex; align-items: center; gap: 0.5rem; color: var(--saffron-500);">
-                <svg width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
-                    <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811V2.828zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492V2.687zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z"/>
-                </svg>
-                <span>${chapter.verses.length} Verses</span>
             </div>
         `;
     }
 
-    // Update verse list
+    // Update chapter summary section (right column)
+    const chapterSummary = document.getElementById('chapterSummary');
+    if (chapterSummary) {
+        chapterSummary.innerHTML = `
+            <h2>${chapter.name_en}</h2>
+            <div style="margin-bottom: 1.5rem; padding-bottom: 1.5rem; border-bottom: 2px solid rgba(228, 178, 61, 0.2);">
+                <p class="chapter-title-pali" style="font-size: 1.125rem; margin-bottom: 1rem;">${chapter.name_pali}</p>
+                <div style="display: flex; align-items: center; gap: 0.5rem; color: var(--saffron-500); font-weight: 600;">
+                    <svg width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811V2.828zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492V2.687zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z"/>
+                    </svg>
+                    <span>${chapter.verses.length} Verses</span>
+                </div>
+            </div>
+            <div class="summary-text">
+                ${chapter.summary}
+            </div>
+        `;
+    }
+
+    // Update verse list (left column)
     const verseList = document.getElementById('verseList');
     if (verseList) {
         verseList.innerHTML = chapter.verses.map(verse => `
             <a href="verse.html?id=${getVerseId(chapter.id, verse.verse_number)}" class="verse-card">
                 <div class="verse-number-badge">${verse.verse_number}</div>
                 <div class="verse-preview">
-                    <p class="verse-pali">${verse.pali.substring(0, 100)}...</p>
-                    <p class="verse-translation">${verse.translation.substring(0, 150)}...</p>
+                    <p class="verse-pali">${verse.pali.substring(0, 80)}...</p>
+                    <p class="verse-translation">${verse.translation.substring(0, 120)}...</p>
                 </div>
                 <div style="flex-shrink: 0;">
                     <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -307,7 +324,7 @@ function loadVersePage(verseId) {
             <div class="accordion">
                 <button class="accordion-button" onclick="toggleAccordion(this)">
                     <span>Commentary</span>
-                    <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <svg class="accordion-icon" width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
                     </svg>
                 </button>
@@ -319,7 +336,7 @@ function loadVersePage(verseId) {
             <div class="accordion">
                 <button class="accordion-button" onclick="toggleAccordion(this)">
                     <span>Buddhist Story: ${verse.story.title}</span>
-                    <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <svg class="accordion-icon" width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
                     </svg>
                 </button>
@@ -364,4 +381,70 @@ function toggleAccordion(button) {
     button.classList.toggle('active');
     const content = button.nextElementSibling;
     content.classList.toggle('active');
+
+    // Rotate icon
+    const icon = button.querySelector('svg');
+    if (icon) {
+        icon.classList.toggle('accordion-icon');
+    }
 }
+
+// Initialize scroll features (reading progress bar and navbar effect)
+function initScrollFeatures() {
+    // Create reading progress bar
+    const progressBar = document.createElement('div');
+    progressBar.className = 'reading-progress';
+    document.body.prepend(progressBar);
+
+    // Update progress bar and navbar on scroll
+    window.addEventListener('scroll', () => {
+        // Update reading progress
+        const windowHeight = window.innerHeight;
+        const documentHeight = document.documentElement.scrollHeight - windowHeight;
+        const scrolled = window.scrollY;
+        const progress = (scrolled / documentHeight) * 100;
+        progressBar.style.width = `${Math.min(progress, 100)}%`;
+
+        // Add shadow to navbar when scrolled
+        const navbar = document.querySelector('.navbar');
+        if (navbar) {
+            if (scrolled > 50) {
+                navbar.classList.add('scrolled');
+            } else {
+                navbar.classList.remove('scrolled');
+            }
+        }
+    });
+}
+
+// Initialize scroll to top button
+function initScrollToTop() {
+    // Create scroll to top button
+    const scrollBtn = document.createElement('button');
+    scrollBtn.className = 'scroll-to-top';
+    scrollBtn.innerHTML = `
+        <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 10l7-7m0 0l7 7m-7-7v18"/>
+        </svg>
+    `;
+    scrollBtn.setAttribute('aria-label', 'Scroll to top');
+    document.body.appendChild(scrollBtn);
+
+    // Show/hide button based on scroll position
+    window.addEventListener('scroll', () => {
+        if (window.scrollY > 300) {
+            scrollBtn.classList.add('visible');
+        } else {
+            scrollBtn.classList.remove('visible');
+        }
+    });
+
+    // Scroll to top on click
+    scrollBtn.addEventListener('click', () => {
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+        });
+    });
+}
+

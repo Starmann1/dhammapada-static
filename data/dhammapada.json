@@ -4,7 +4,7 @@
             "id": 1,
             "name_pali": "Yamaka Vagga",
             "name_en": "The Pairs",
-            "summary": "This chapter explores the fundamental duality of mental states and their consequences. It emphasizes how our thoughts shape our reality and determine our happiness or suffering.",
+            "summary": "The Yamaka Vagga, establishes the fundamental Buddhist principle that the mind is the supreme architect of all human experience, using twenty verses organized into contrasting pairs to illustrate the inescapable law of karma. This opening section declares that actions driven by an impure mind lead to suffering as surely as a wheel follows the ox, while actions rooted in a pure mind result in a happiness that follows like an inseparable shadow. Central to these teachings is the psychological insight that resentment and conflict are only resolved through the abandonment of vengeful thoughts, famously asserting that hatred is never appeased by hatred but only by non-hatred and love. Through vivid similes—such as comparing an undisciplined mind to an ill-thatched house that lets in the rain—the Buddha emphasizes the necessity of self-restraint, mindfulness, and the realization of mortality to settle quarrels. Ultimately, the verses distinguish between mere academic knowledge and true spiritual practice, warning that those who recite scriptures without living the teachings are like cowherds counting another's cattle, while those who practice with even limited knowledge achieve genuine liberation by forsaking lust and delusion.",
             "verses": [
                 {
                     "verse_number": 1,
@@ -212,7 +212,7 @@
             "id": 2,
             "name_pali": "Appamāda Vagga",
             "name_en": "Heedfulness",
-            "summary": "This chapter emphasizes the importance of heedfulness and diligence in spiritual practice.",
+            "summary": "Heedfulness is the path to the Deathless, while negligence is the path to death; the vigilant do not die, but the heedless are as if already dead. This section emphasizes that spiritual survival depends upon constant vigilance (appamada) over one's own mind, protecting it from the torrential floods of greed, hatred, and delusion. The wise man, through effort and self-mastery, builds for himself an island of clarity that no flood can overwhelm, watching the sorrowing, negligent multitude from the high palace of wisdom. Like a fire burning through every bond, the monk who delights in heedfulness advances steadily toward Nibbana, realizing that a single day of earnest effort is superior to a hundred years of sluggish dissipation.",
             "verses": [
                 {
                     "verse_number": 21,
@@ -340,7 +340,7 @@
             "id": 3,
             "name_pali": "Citta Vagga",
             "name_en": "The Mind",
-            "summary": "This chapter focuses on the nature of the mind and the importance of training it.",
+            "summary": "The mind is fickle, unsteady, and difficult to guard, flitting wherever it desires like a fish thrashing on dry land when pulled from its watery home. A wise person straightens their flighty impulses as a fletcher straightens an arrow, understanding that a tamed and guarded mind is the ultimate source of happiness. Dwelling in the cave of the heart, this formless wanderer can inflict greater harm than any enemy if ill-directed, yet it can bestow greater blessings than even one's mother or father if well-directed. By fortifying the mind like a fortress and battling temptation with the sword of wisdom, the practitioner transcends fear and realizes the fragile, clay-pot nature of the physical body.",
             "verses": [
                 {
                     "verse_number": 33,
@@ -458,7 +458,7 @@
             "id": 4,
             "name_pali": "Puppha Vagga",
             "name_en": "Flowers",
-            "summary": "This chapter uses flowers as metaphors to illustrate the Dhamma, teaching about the nature of existence, the importance of virtue over empty words, and the cultivation of good deeds.",
+            "summary": "Using the delicate beauty of blossoms as a metaphor, these verses illustrate the urgency of the spiritual path and the surpassing fragrance of virtue. Just as an expert garland-maker selects the finest blooms, the striver-on-the-path investigates the well-taught Dhamma to overcome the realm of death. While those distracted by the flowers of sensual pleasure are swept away by death like a sleeping village in a flood, the sage moves through the world as a bee gathers nectar—taking only what is essential without harming the blossom's color or scent. Ultimately, the scent of sandalwood or jasmine is faint compared to the fragrance of the virtuous, which wafts even against the wind to reach the gods.",
             "verses": [
                 {
                     "verse_number": 44,
@@ -626,7 +626,7 @@
             "id": 5,
             "name_pali": "Bāla Vagga",
             "name_en": "The Fool",
-            "summary": "This chapter explores the characteristics and consequences of foolishness, warning against ignorance, heedlessness, and association with the unwise.",
+            "summary": "The fool wanders through a long night of suffering, burdened by the delusion of self and the false security of wealth and kin. Blind to the Truth, the fool is their own worst enemy, performing wicked deeds that seem as sweet as honey until they ripen into bitter fruit. Even if a fool associates with a wise man for a lifetime, they perceive the Dhamma no more than a spoon tastes the flavor of the soup. True foolishness lies not in simple ignorance, but in the pride of imagining oneself wise; therefore, the seeker is advised to journey alone rather than seek fellowship with those who do not understand the path to quenching.",
             "verses": [
                 {
                     "verse_number": 60,
@@ -794,7 +794,7 @@
             "id": 6,
             "name_pali": "Paṇḍita Vagga",
             "name_en": "The Wise",
-            "summary": "This chapter describes the qualities of wise persons and emphasizes the importance of associating with noble companions who guide one toward enlightenment.",
+            "summary": "The wise person is recognized by their ability to accept instruction and reproof, acting like a guide who points out hidden treasure by highlighting one's faults for the sake of growth. Just as a solid rock remains unshaken by the wind, the truly wise are not moved by praise or blame, maintaining a tranquil clarity after hearing the Truth. They do not strive for wealth or success through unjust means, nor do they desire children or kingdoms for the sake of ego; instead, they focus on self-mastery and the cultivation of insight. While most people merely run along the bank of worldly concerns, the wise cross the turbulent river of passion to reach the far shore of Nibbana. They have abandoned the dark state of ignorance to dwell in the light of detachment, finding delight in the renunciation that the worldly find so difficult. By purging the mind of impurities and clinging to nothing in the world, the wise achieve a luminous liberation that is beyond the reach of death.",
             "verses": [
                 {
                     "verse_number": 76,
@@ -942,7 +942,7 @@
             "id": 7,
             "name_pali": "Arahanta Vagga",
             "name_en": "The Arahant",
-            "summary": "This chapter details the qualities of Arahants—those who have achieved complete enlightenment and liberation from all suffering and attachments.",
+            "summary": "For the Arahant, or the Perfected One, the journey of suffering has ended and all fetters have been cast aside, leaving a mind as calm as a pool undisturbed by mud. Having completed the path, they are free from the fever of passion and the anxieties of the self, moving through the world without leaving a trail, just as birds leave no track in the sky. They do not store up possessions and have a perfect understanding of the void, finding their food in the realization of signless liberation. Even the gods envy the one whose senses are calmed like horses well-trained by a charioteer, for such a person is as tolerant as the earth and as firm as a pillar. Free from the cycles of birth and death, the Arahant finds peace in every action—whether speaking, thinking, or doing—because they have realized the Unconditioned and destroyed all cravings. Whether in a village or a forest, in a valley or on a hill, wherever these holy ones dwell, that place becomes truly delightful.",
             "verses": [
                 {
                     "verse_number": 90,
@@ -1050,7 +1050,7 @@
             "id": 8,
             "name_pali": "Sahassa Vagga",
             "name_en": "The Thousands",
-            "summary": "This chapter emphasizes quality over quantity in spiritual practice, showing that one meaningful word, verse, or moment of understanding is worth more than thousands of meaningless ones. It also teaches that self-conquest is the greatest victory and that honoring the virtuous brings great blessings.",
+            "summary": "The value of a single meaningful word that brings peace far outweighs a thousand senseless words or verses recited without understanding. This chapter emphasizes that spiritual quality is superior to quantity, asserting that one who conquers themselves is a greater victor than a warrior who defeats a million men in battle. Neither gods, nor celestial musicians, nor the powers of evil can undo the victory of one who has achieved self-mastery through discipline. Even a century of performing ritual sacrifices or tending a sacrificial fire is not worth a single moment of honoring a person who is self-developed and wise. To live just one day with a mind focused on the rising and falling of phenomena is better than living a hundred years in ignorance of the Truth. Ultimately, the path to the Deathless state is found through a single day of virtuous, meditative living, which surpasses a lifetime spent in negligence and vice.",
             "verses": [
                 {
                     "verse_number": 100,
@@ -1218,7 +1218,7 @@
             "id": 9,
             "name_pali": "Pāpa Vagga",
             "name_en": "Evil",
-            "summary": "This chapter discusses the consequences of unwholesome actions and urges practitioners to hasten toward good while restraining the mind from evil.",
+            "summary": "One should hasten toward the good and restrain the mind from evil, for a mind that is slow in doing good finds delight in what is harmful. No one should underestimate the power of small misdeeds, thinking it will not come to me, for just as a water jar is filled drop by drop, the fool becomes full of evil through gradual accumulation. Conversely, the wise man fills himself with merit by performing small acts of goodness over time. An evil deed may seem sweet while it has not yet ripened, but once it bears fruit, the wrongdoer experiences deep sorrow. There is no place on earth—neither in the sky, nor in the depths of the ocean, nor in a mountain cave—where one can hide from the consequences of their own wicked actions. Because death eventually claims everyone, the wise protect themselves by avoiding evil as a merchant with few guards avoids a dangerous road or as a person avoids a poison that could enter an open wound.",
             "verses": [
                 {
                     "verse_number": 116,
@@ -1356,7 +1356,7 @@
             "id": 10,
             "name_pali": "Daṇḍa Vagga",
             "name_en": "Violence",
-            "summary": "This chapter addresses the consequences of causing harm to others and emphasizes non-violence, compassion, and the universal desire for happiness and freedom from suffering.",
+            "summary": "Recognizing that all beings tremble before danger and that life is dear to everyone, the practitioner should compare others with themselves and neither kill nor cause others to be killed. One who seeks their own happiness by harming other beings who also desire happiness will not find peace in the hereafter. One should not speak harshly to anyone, for those who are spoken to will answer in kind, and angry speech eventually leads to painful retribution. Just as a cowherd drives cattle to pasture with a staff, so do old age and death drive the lives of all beings toward their end. A fool is consumed by their own evil deeds as if by fire, suffering the consequences of their lack of restraint. Even a person who is finely dressed can be a true holy man if they are peaceful, disciplined, and harmless toward all living things. True shame acts as a bridle, guiding the wise away from censure just as a thoroughbred horse avoids the whip.",
             "verses": [
                 {
                     "verse_number": 129,
@@ -1534,7 +1534,7 @@
             "id": 11,
             "name_pali": "Jarā Vagga",
             "name_en": "Old Age",
-            "summary": "This chapter reflects on the impermanence of life, the inevitability of aging and death, and the urgency of spiritual practice while one still has the opportunity.",
+            "summary": "This section contemplates the inevitable decay of the physical form, questioning how there can be laughter or delight when the world is constantly burning with the fires of passion and mortality. The body is described as a painted image, a mass of sores and infirmity, held together by bones and plastered with flesh and blood. Just as royal chariots, however decorated, eventually wear out, the body must succumb to the frailty of old age; yet the Dhamma of the virtuous never grows old. One who has not lived the holy life or acquired spiritual wealth in youth is compared to an old heron standing mournfully in a lake without fish. The Buddha reflects on his own journey through countless births, seeking the builder of the house of suffering, finally declaring that the rafters of passion are broken and the ridgepole of ignorance is shattered, reaching the end of craving.",
             "verses": [
                 {
                     "verse_number": 146,
@@ -1652,7 +1652,7 @@
             "id": 12,
             "name_pali": "Atta Vagga",
             "name_en": "The Self",
-            "summary": "This chapter deals with self-control, self-respect, and the importance of being one's own refuge through diligent practice and ethical conduct.",
+            "summary": "The cultivation of the self is the primary responsibility of every individual, for one is their own protector and their own refuge. If one holds themselves dear, they should watch themselves closely during at least one of the three watches of the night, establishing themselves in virtue before attempting to instruct others. It is easy to perform deeds that are harmful and self-destructive, but it is exceedingly difficult to perform deeds that are beneficial and good. Evil is done by the self and born of the self; it is the self that is defiled by evil, and the self that is purified by abstaining from it. No one can purify another, as purity and impurity depend entirely on one's own actions. Therefore, one should never neglect their own spiritual progress for the sake of another’s benefit, however great, but should remain focused on the ultimate goal of liberation.",
             "verses": [
                 {
                     "verse_number": 157,
@@ -1760,7 +1760,7 @@
             "id": 13,
             "name_pali": "Loka Vagga",
             "name_en": "The World",
-            "summary": "This chapter explores the nature of the world as filled with attachment and illusion, teaching that through mindfulness and right view, one can transcend worldly suffering.",
+            "summary": "One is urged to follow the Dhamma and not the path of worldly distraction, for the practitioner of righteousness lives happily in this world and the next. The world is to be viewed as a bubble or a mirage; those who look upon existence with this level of insight are beyond the reach of the King of Death. While the world is like a gaudy royal chariot in which fools are immersed, the wise remain detached and unentangled. Even a person who was formerly negligent can illuminate the world like the moon emerging from behind a cloud if they replace their past misdeeds with present wholesome actions. Few are those who possess the vision to see clearly in this world of darkness, and like birds escaping from a net, only a rare few reach the celestial realms. Conquest over the world is achieved not through external power, but by the one who has transcended the cycle of birth and death through the realization of Truth.",
             "verses": [
                 {
                     "verse_number": 167,
@@ -1888,7 +1888,7 @@
             "id": 14,
             "name_pali": "Buddha Vagga",
             "name_en": "The Buddha",
-            "summary": "This chapter praises the qualities and teachings of the Buddha, describing the path to awakening and the characteristics of those who follow the Buddha's way.",
+            "summary": "The Buddha is the trackless one whose victory cannot be undone and whose reach is infinite, having transcended the entangling net of craving. Even the gods envy those wise ones who are devoted to meditation and find delight in the peace of renunciation. Human birth is rare, the life of mortals is difficult, and the appearance of a Buddha in the world is an extraordinary event. The fundamental teaching of all Buddhas is simple yet profound: to avoid all evil, to cultivate the good, and to purify one’s own mind. Endurance is the highest austerity, and Nibbana is the supreme goal; a true seeker does not harm others, for one who causes injury is not a monk. Ultimately, taking refuge in the Buddha, the Dhamma, and the Sangha leads to the cessation of all suffering through the clear vision of the Four Noble Truths.",
             "verses": [
                 {
                     "verse_number": 179,
@@ -2076,7 +2076,7 @@
             "id": 15,
             "name_pali": "Sukha Vagga",
             "name_en": "Happiness",
-            "summary": "This chapter reveals the true nature of happiness beyond material possessions, teaching that genuine joy comes from freedom from hatred, health, contentment, and ultimately, Nibbāna.",
+            "summary": "True happiness is found by living without hatred among those who hate, and remaining free from the disease of passion among those who are afflicted by it. The wise live happily and without greed, even in the midst of the covetous, resembling the radiant gods who feed on joy. Victory breeds hatred because the conquered live in sorrow, but the one who has given up both victory and defeat dwells in peace and contentment. There is no fire like lust, no crime like hatred, and no sorrow like the burden of individual existence; conversely, Nibbana is recognized as the highest bliss. Health is the greatest gain, contentment the greatest wealth, and trust the best of kinsmen. Associating with the wise is as joyful as meeting a long-lost relative, while fellowship with fools brings long-lasting grief; therefore, one should follow the steadfast and the enlightened as the moon follows the path of the stars.",
             "verses": [
                 {
                     "verse_number": 197,
@@ -2204,7 +2204,7 @@
             "id": 16,
             "name_pali": "Piya Vagga",
             "name_en": "Affection",
-            "summary": "This chapter explores the nature of affection and attachment, warning about the sorrow that arises from excessive attachment to loved ones and pleasant things.",
+            "summary": "The Piya Vagga, or Affection, explores the spiritual dangers of attachment and the profound peace that comes from transcending worldly bonds. This chapter emphasizes that those who devote themselves to the unessential while neglecting the path of meditation eventually envy those who have achieved self-mastery. The Buddha warns against seeking the company of either the beloved or the unloved, as missing the beloved is painful and seeing the unloved is equally distressing. Therefore, one should hold nothing dear, for the loss of the beloved brings sorrow; those who have no dear or undear are free from the fetters of grief. Affection, attachment, lust, and craving are identified as the four primary roots of fear and sorrow; when these are completely relinquished, both grief and fear vanish. The practitioner is urged to be like a traveler who, after a long journey, is greeted with joy by kinsmen; similarly, the good deeds of one who has passed from this world to the next will welcome them like relatives welcoming a loved one home. By cultivating virtue, insight, and righteousness, the seeker achieves a state where the mind is freed from the floods of craving and is destined for the highest goal.",
             "verses": [
                 {
                     "verse_number": 209,
@@ -2332,7 +2332,7 @@
             "id": 17,
             "name_pali": "Kodha Vagga",
             "name_en": "Anger",
-            "summary": "This chapter addresses the destructive nature of anger and teaches the cultivation of patience, loving-kindness, and the abandonment of resentment.",
+            "summary": "One should abandon anger and pride, overcoming all worldly fetters, for suffering never befalls those who cling to nothing and possess no self. This section teaches that the one who restrains rising anger like a skilled charioteer restrains a swaying chariot is a true driver, while others merely hold the reins. Conflict is conquered through its opposite: anger is overcome by non-anger, evil by good, stinginess by giving, and falsehood by truth. By remaining constantly vigilant and training themselves day and night, the disciplined focus their minds on Nibbana, eventually reaching a state where the fires of resentment are extinguished. Beware of the anger of the tongue, the body, and the mind; the wise exercise self-restraint in every action, ensuring they harm no living being through their speech or conduct.",
             "verses": [
                 {
                     "verse_number": 221,
@@ -2480,7 +2480,7 @@
             "id": 18,
             "name_pali": "Mala Vagga",
             "name_en": "Impurity",
-            "summary": "Using the metaphor of rust and stains, this chapter discusses various mental impurities that hinder spiritual progress and emphasizes purification through wisdom and effort.",
+            "summary": "Like a withered leaf, the negligent person stands at the threshold of death with no provisions for the journey ahead. This chapter emphasizes that internal impurities—such as greed, hatred, and ignorance—are far more corrosive than any physical stain. Just as a silversmith removes dross from silver, the wise person gradually and consistently purges the impurities of their own mind. While it is easy to see the faults of others, it is difficult to see one's own; yet, focusing on the flaws of others only increases one's own defilements. The greatest of all stains is ignorance (avijja), and the practitioner is urged to cast off this primary impurity to achieve clarity. Ultimately, there is no track in the sky, and no permanent state in the conditioned world, so the wise focus on the path of purification to reach the Unconditioned.",
             "verses": [
                 {
                     "verse_number": 235,
@@ -2698,7 +2698,7 @@
             "id": 19,
             "name_pali": "Dhammaṭṭha Vagga",
             "name_en": "The Just",
-            "summary": "This chapter explores the nature of true justice and righteousness, teaching that wisdom comes not from speaking much but from living peacefully and fearlessly in accordance with truth.",
+            "summary": "A person is not just simply because they decide a case with haste or violence; the true guardian of the Dhamma is one who weighs both right and wrong with impartiality. One is not wise merely because they speak much, nor are they a carrier of the Dhamma because they have memorized many verses. True justice and wisdom are found in the one who is peaceful, free from hatred, and who practices the teachings even if they know only a small portion of the scriptures. One does not become an Elder through gray hair alone if they lack virtue and truth; a true Elder is one in whom self-control and harmlessness dwell. By abandoning the shaven head of a monk if one still harbors desire, the practitioner realizes that a true recluse is defined by the internal quieting of all evil.",
             "verses": [
                 {
                     "verse_number": 256,
@@ -2876,7 +2876,7 @@
             "id": 20,
             "name_pali": "Magga Vagga",
             "name_en": "The Path",
-            "summary": "This chapter provides guidance on the Noble Eightfold Path, emphasizing its role as the way to purification, the cessation of suffering, and the attainment of Nibbāna.",
+            "summary": "The Eightfold Path is the best of all paths, and the Four Noble Truths are the best of all truths. This chapter serves as a direct roadmap to liberation, asserting that one must walk the path themselves, as the Buddhas are only teachers who point the way. Insight begins with the realization that all conditioned things are transient (anicca), unsatisfactory (dukkha), and selfless (anatta). When one sees this with wisdom, they become weary of suffering and find the path to purity. The seeker is urged to cut down the forest of cravings—not just a single tree—to achieve true freedom from the entanglements of desire. By rooting out lust as one would pluck an autumn lotus, the wise person reaches the peace of Nibbana, realizing that neither children nor wealth can provide a refuge when death arrives.",
             "verses": [
                 {
                     "verse_number": 273,
@@ -3054,7 +3054,7 @@
             "id": 21,
             "name_pali": "Pakiṇṇaka Vagga",
             "name_en": "Miscellaneous",
-            "summary": "This chapter contains various teachings on different aspects of the Dhamma, including the nature of happiness, mindfulness, and the conduct of those seeking liberation.",
+            "summary": "If by giving up a lesser happiness one can find a greater happiness, the wise person should abandon the small for the sake of the large. This chapter addresses various aspects of spiritual discipline, warning against the pursuit of wrong paths and the dangers of a distracted mind. One who is constantly mindful of the body and does not pursue what should not be done achieves a state where defilements vanish. It is better to live as a solitary seeker than to associate with the negligent, for the path of the wise is as solitary as a rhinoceros in the forest. Whether sitting, standing, or walking, the true disciple of the Buddha remains perpetually awake, their mind finding delight in the practice of non-violence and meditation.",
             "verses": [
                 {
                     "verse_number": 290,
@@ -3222,7 +3222,7 @@
             "id": 22,
             "name_pali": "Niraya Vagga",
             "name_en": "Hell",
-            "summary": "This chapter describes the consequences of evil deeds that lead to states of woe, warning against lying, denial of wrongdoing, and immoral conduct.",
+            "summary": "One who speaks what is not true or who performs an evil deed and then denies it goes to a state of woe, suffering in the hereafter. This section warns that even those wearing the saffron robe can be reborn in a state of misery if they are ill-behaved and lack self-restraint. It is better to swallow a glowing iron ball than to live a life of sin while supported by the alms of the faithful. Four misfortunes befall the reckless person who lusts after another's spouse: acquisition of demerit, disturbed sleep, public censure, and rebirth in a state of suffering. Just as kusa-grass cuts the hand if not gripped rightly, the ascetic life leads to ruin if practiced incorrectly. By being their own protector and guarding themselves like a frontier city, the wise avoid the path that leads to the downward state.",
             "verses": [
                 {
                     "verse_number": 306,
@@ -3370,7 +3370,7 @@
             "id": 23,
             "name_pali": "Nāga Vagga",
             "name_en": "The Elephant",
-            "summary": "Using the elephant as a metaphor for strength and training, this chapter teaches about endurance, self-control, and the taming of one's mind and senses.",
+            "summary": "Using the metaphor of a battle-hardened elephant, the Buddha encourages the practitioner to endure abuse and hardship with silent patience. Just as an elephant in battle withstands arrows shot from bows, the wise person endures the harsh words of the world, for the best of all beings is the one who has achieved self-mastery. Tamed mules and noble horses are excellent, but the person who has tamed themselves is superior to them all. One should not go to the unreached land of Nibbana on an animal, but through the vehicle of a well-trained mind. Like an elephant that remembers its forest home even when in captivity, the mind often wanders toward old pleasures; therefore, one must use mindfulness to pull themselves out of the mud of passion, just as a stuck elephant pulls itself out of a swamp.",
             "verses": [
                 {
                     "verse_number": 320,
@@ -3518,7 +3518,7 @@
             "id": 24,
             "name_pali": "Taṇhā Vagga",
             "name_en": "Craving",
-            "summary": "This chapter is devoted entirely to the theme of craving (taṇhā), teaching that it is the root of suffering and must be completely eradicated for liberation to be achieved.",
+            "summary": "Craving grows in a negligent man like a creeper, leaping from life to life like a monkey seeking fruit in a forest. This chapter describes the relentless nature of desire, which brings about a proliferation of suffering for those who are caught in its grip. Just as a tree will grow again if its roots are left unharmed, suffering returns again and again if the root of craving is not destroyed. Those who are driven by thirst run around like a hunted hare, bound by fetters that lead to long-term pain. The wise understand that the strongest bonds are not made of iron or wood, but of the attachment to precious stones, children, and spouses. By cutting off this flow of desire and renouncing worldly attachments, the practitioner achieves the further shore, becoming a man of great wisdom who has reached the final goal.",
             "verses": [
                 {
                     "verse_number": 334,
@@ -3786,7 +3786,7 @@
             "id": 25,
             "name_pali": "Bhikkhu Vagga",
             "name_en": "The Monk",
-            "summary": "This chapter describes the ideal conduct and qualities of a Buddhist monk, emphasizing restraint, mindfulness, contentment, and the pursuit of liberation.",
+            "summary": "A monk is defined not by their outward appearance, but by their restraint in eye, ear, nose, tongue, body, and speech. One who is controlled in every way and finds delight in meditation is a true bhikkhu, even if they possess nothing. This section emphasizes the importance of emptying the boat of the mind; by casting out the water of lust and hatred, the boat will sail lightly toward Nibbana. A monk should not be greedy for what they receive nor envious of others, for the mind of an envious person never achieves concentration. By calming the senses and reflecting on the rise and fall of the five aggregates, the monk experiences a joy that is beyond the reach of mortals. The path of the monk is one of constant vigilance, replacing the thorns of the worldly life with the flowers of spiritual discipline.",
             "verses": [
                 {
                     "verse_number": 360,
@@ -4024,7 +4024,7 @@
             "id": 26,
             "name_pali": "Brāhmaṇa Vagga",
             "name_en": "The Brāhmaṇa",
-            "summary": "This final chapter describes the highest spiritual attainment, using the term 'Brāhmaṇa' in a spiritual sense to denote one who has achieved complete purification and liberation.",
+            "summary": "The final chapter redefines the traditional term Brahmin from a caste designation to a spiritual ideal. A true Holy Man is not one with matted hair or high birth, but one in whom truth and Dhamma abide. Such a person has cut all fetters, is free from anger, and endures reproach and even physical blows without resentment, making patience their greatest strength. They are as clear as the moon, untainted by sensual pleasures like water on a lotus leaf or a mustard seed on the point of a needle. Having laid aside the burden of the self and achieved the Unconditioned, they move through the world without clinging to anything, whether human or divine. By following the path of the trackless ones, the Holy Man reaches the highest goal, becoming a bull among men who has conquered birth and death.",
             "verses": [
                 {
                     "verse_number": 383,
